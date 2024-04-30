@@ -11,7 +11,7 @@
   xmlns:cc='http://creativecommons.org/ns#'
   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
   version='1.1'
-  width='1550'
+  width='920'
   height='1334'
 >
 
@@ -40,457 +40,6 @@
   <circle id='__connectors_start' cx='0' cy='0' r='4' stroke='none' />
 <rect id='__fadeout' height='1' width='6' y='-0.5' x='0'/>
 <!-- BEGIN additional SVG images - definitions -->
-    <radialGradient
-       id="radialGradient176"
-       xlink:href="#linearGradient172"
-       gradientTransform="matrix(1.0452325,0,0,0.9567249,0.249746,4.0783767)"
-       cx="446.77762"
-       cy="1219.4125"
-       fx="446.77762"
-       fy="1219.4125"
-       r="195.07191"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient172">
-      <stop
-         id="stop173"
-         offset="0.000000"
-         style="stop-color:#3f2600;stop-opacity:0.6;" />
-      <stop
-         id="stop174"
-         offset="1.000000"
-         style="stop-color:#3f2600;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="304.07886"
-       x2="400.84448"
-       y1="369.53015"
-       x1="400.57785"
-       id="linearGradient157"
-       xlink:href="#linearGradient153"
-       gradientTransform="matrix(0.5752618,0,0,1.7383388,-0.2255136,1.1465084)" />
-    <linearGradient
-       id="linearGradient153">
-      <stop
-         id="stop154"
-         offset="0.000000"
-         style="stop-color:#ffeed7;stop-opacity:1;" />
-      <stop
-         id="stop155"
-         offset="1.000000"
-         style="stop-color:#bdbfc2;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="330.09561"
-       x2="297.0856"
-       y1="237.93179"
-       x1="303.01761"
-       id="linearGradient141"
-       xlink:href="#linearGradient138"
-       gradientTransform="matrix(1.1160707,0,0,0.8960006,0.3316981,1.4343374)" />
-    <linearGradient
-       id="linearGradient138">
-      <stop
-         id="stop139"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.8;" />
-      <stop
-         id="stop140"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientTransform="matrix(0.8164969,0,0,1.2247444,0.1962794,1.2709141)"
-       gradientUnits="userSpaceOnUse"
-       y2="243.91606"
-       x2="380.27319"
-       y1="278.60202"
-       x1="378.93771"
-       id="linearGradient159"
-       xlink:href="#linearGradient153" />
-    <linearGradient
-       id="linearGradient4366">
-      <stop
-         id="stop4368"
-         offset="0.000000"
-         style="stop-color:#ffeed7;stop-opacity:1;" />
-      <stop
-         id="stop4370"
-         offset="1.000000"
-         style="stop-color:#bdbfc2;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="245.68338"
-       x2="380.5517"
-       y1="277.495"
-       x1="381.38742"
-       id="linearGradient158"
-       xlink:href="#linearGradient153"
-       gradientTransform="matrix(0.8164969,0,0,1.2247444,-0.1763423,1.0945522)" />
-    <linearGradient
-       id="linearGradient4373">
-      <stop
-         id="stop4375"
-         offset="0.000000"
-         style="stop-color:#ffeed7;stop-opacity:1;" />
-      <stop
-         id="stop4377"
-         offset="1.000000"
-         style="stop-color:#bdbfc2;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.8164969,0,0,1.2247444,-1.0755061,3.4740223)"
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="281.01636"
-       x2="376.79556"
-       y1="240.92712"
-       x1="379.09573"
-       id="linearGradient143"
-       xlink:href="#linearGradient167" />
-    <linearGradient
-       id="linearGradient167">
-      <stop
-         id="stop168"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop169"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="281.32513"
-       x2="387.06866"
-       y1="242.28218"
-       x1="389.63535"
-       id="linearGradient144"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(0.8164969,0,0,1.2247444,0.4946856,4.2948128)" />
-    <linearGradient
-       id="linearGradient4384">
-      <stop
-         id="stop4386"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4388"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="reflect"
-       gradientUnits="userSpaceOnUse"
-       y2="394.10361"
-       x2="437.57941"
-       y1="528.87177"
-       x1="437.57941"
-       id="linearGradient152"
-       xlink:href="#linearGradient153"
-       gradientTransform="matrix(0.8128545,0,0,1.2302325,0.283241,1.353188)" />
-    <linearGradient
-       id="linearGradient4391">
-      <stop
-         id="stop4393"
-         offset="0.000000"
-         style="stop-color:#ffeed7;stop-opacity:1;" />
-      <stop
-         id="stop4395"
-         offset="1.000000"
-         style="stop-color:#bdbfc2;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="324.03815"
-       x2="377.48541"
-       y1="419.78485"
-       x1="375.17325"
-       id="linearGradient156"
-       xlink:href="#linearGradient153"
-       gradientTransform="matrix(0.6497837,0,0,1.5389736,0.1582702,1.3124492)" />
-    <linearGradient
-       id="linearGradient4398">
-      <stop
-         id="stop4400"
-         offset="0.000000"
-         style="stop-color:#ffeed7;stop-opacity:1;" />
-      <stop
-         id="stop4402"
-         offset="1.000000"
-         style="stop-color:#bdbfc2;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="614.50439"
-       x2="321.32224"
-       y1="498.17776"
-       x1="320.75104"
-       id="linearGradient149"
-       xlink:href="#linearGradient138"
-       gradientTransform="matrix(1.0747977,0,0,0.9304076,0.2719094,1.380454)" />
-    <linearGradient
-       id="linearGradient4405">
-      <stop
-         id="stop4407"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.8;" />
-      <stop
-         id="stop4409"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="488.48251"
-       x2="323.2514"
-       y1="435.26761"
-       x1="322.48257"
-       id="linearGradient148"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(1.0770013,0,0,0.928504,0.298332,1.5851737)" />
-    <linearGradient
-       id="linearGradient4412">
-      <stop
-         id="stop4414"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4416"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="331.44858"
-       x2="411.2215"
-       y1="242.94365"
-       x1="411.2215"
-       id="linearGradient147"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(0.5717073,0,0,1.7491467,0.283241,1.353188)" />
-    <linearGradient
-       id="linearGradient4419">
-      <stop
-         id="stop4421"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4423"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="314.83911"
-       x2="867.33453"
-       y1="234.73897"
-       x1="867.34546"
-       id="linearGradient146"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(0.5726674,0,0,1.7462143,0.283241,1.353188)" />
-    <linearGradient
-       id="linearGradient4426">
-      <stop
-         id="stop4428"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4430"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="737.41229"
-       x2="212.5099"
-       y1="657.11133"
-       x1="236.25362"
-       id="linearGradient165"
-       xlink:href="#linearGradient162"
-       gradientTransform="matrix(1.0115142,0,0,0.9886169,0.283241,1.353188)" />
-    <linearGradient
-       id="linearGradient162">
-      <stop
-         id="stop163"
-         offset="0.000000"
-         style="stop-color:#ffa63f;stop-opacity:1;" />
-      <stop
-         id="stop164"
-         offset="1.000000"
-         style="stop-color:#ffff00;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="386.66583"
-       x2="279.64313"
-       y1="655.73102"
-       x1="381.56607"
-       id="linearGradient178"
-       xlink:href="#linearGradient153"
-       gradientTransform="matrix(1.0654991,0,0,0.9385273,1.4388395,2.1143795)" />
-    <linearGradient
-       id="linearGradient4437">
-      <stop
-         id="stop4439"
-         offset="0.000000"
-         style="stop-color:#ffeed7;stop-opacity:1;" />
-      <stop
-         id="stop4441"
-         offset="1.000000"
-         style="stop-color:#bdbfc2;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="737.8537"
-       x2="203.12654"
-       y1="630.30475"
-       x1="218.11714"
-       id="linearGradient161"
-       xlink:href="#linearGradient162"
-       gradientTransform="matrix(1.0098507,0,0,0.9902454,0.2506227,1.3611134)" />
-    <linearGradient
-       id="linearGradient4444">
-      <stop
-         id="stop4446"
-         offset="0.000000"
-         style="stop-color:#ffa63f;stop-opacity:1;" />
-      <stop
-         id="stop4448"
-         offset="1.000000"
-         style="stop-color:#ffff00;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientTransform="matrix(1.0077239,0,0,0.9923353,0.3609981,1.6394255)"
-       gradientUnits="userSpaceOnUse"
-       y2="704.73077"
-       x2="182.24524"
-       y1="587.23602"
-       x1="117.88966"
-       id="linearGradient150"
-       xlink:href="#linearGradient167" />
-    <linearGradient
-       id="linearGradient4451">
-      <stop
-         id="stop4453"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4455"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="710.97723"
-       x2="230.53499"
-       y1="570.41809"
-       x1="223.10072"
-       id="linearGradient151"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(0.9995042,0,0,1.0004961,0.3808843,1.6365774)" />
-    <linearGradient
-       id="linearGradient4458">
-      <stop
-         id="stop4460"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4462"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="582.63507"
-       x2="371.60889"
-       y1="474.01779"
-       x1="316.93988"
-       id="linearGradient145"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(1.0654991,0,0,0.9385273,2.4272939,3.8684258)" />
-    <linearGradient
-       id="linearGradient4465">
-      <stop
-         id="stop4467"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4469"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="485.69934"
-       x2="285.45923"
-       y1="410.46326"
-       x1="284.68652"
-       id="linearGradient166"
-       xlink:href="#linearGradient162"
-       gradientTransform="matrix(1.2186844,0,0,0.820557,0.283241,1.353188)" />
-    <linearGradient
-       id="linearGradient4472">
-      <stop
-         id="stop4474"
-         offset="0.000000"
-         style="stop-color:#ffa63f;stop-opacity:1;" />
-      <stop
-         id="stop4476"
-         offset="1.000000"
-         style="stop-color:#ffff00;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       spreadMethod="pad"
-       gradientUnits="userSpaceOnUse"
-       y2="482.55939"
-       x2="288.37628"
-       y1="398.85422"
-       x1="288.82358"
-       id="linearGradient142"
-       xlink:href="#linearGradient167"
-       gradientTransform="matrix(1.2219405,0,0,0.8183704,0.5638931,2.8396095)" />
-    <linearGradient
-       id="linearGradient4479">
-      <stop
-         id="stop4481"
-         offset="0.000000"
-         style="stop-color:#ffffff;stop-opacity:0.65098;" />
-      <stop
-         id="stop4483"
-         offset="1.000000"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       y2="482.55939"
-       x2="288.37628"
-       y1="398.85422"
-       x1="288.82358"
-       spreadMethod="pad"
-       gradientTransform="matrix(1.2219405,0,0,0.8183704,0.5638931,2.8396095)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4514"
-       xlink:href="#linearGradient167" />
 
 <!-- END additional SVG images - definitions -->
 
@@ -621,61 +170,61 @@ style='opacity:0.6;' >
 
 <g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
  style='fill:none;stroke-width:4;' >
-  <path id='__line_ChemBERTa-2' d='M 476 95 C 551,95 501,73 576,73 L 576 73 L 741 73' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ChemBERTa' d='M 285 95 C 360,95 310,117 385,117 L 385 117 L 741 117' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_RoBERTa' d='M 185 315 C 241.25,315 203.75,95 260,95 L 260 95 L 741 95' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_SMILES-BERT' d='M 185 315 C 253.25,315 207.75,139 276,139 L 276 139 L 741 139' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_BioBERT' d='M 218 315 C 293,315 243,161 318,161 L 318 161 L 741 161' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Bio-Megatron' d='M 285 315 C 360,315 310,183 385,183 L 385 183 L 741 183' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Schwaller2020' d='M 301 315 C 376,315 326,205 401,205 L 401 205 L 741 205' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Mol-BERT' d='M 376 315 C 451,315 401,227 476,227 L 476 227 L 741 227' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_PubMedBERT' d='M 385 315 C 460,315 410,249 485,249 L 485 249 L 741 249' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MolFormer' d='M 443 315 C 518,315 468,271 543,271 L 543 271 L 741 271' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_SolvBERT' d='M 485 315 C 560,315 510,293 585,293 L 585 293 L 741 293' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_BlueBERT' d='M 185 315 C 234.5,315 201.5,557 251,557 L 251 557 L 741 557' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MaterialsBERT' d='M 535 315 C 610,315 560,337 635,337 L 635 337 L 741 337' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ScholarBERT' d='M 443 315 C 518,315 468,359 543,359 L 543 359 L 741 359' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MatBERT' d='M 435 315 C 510,315 460,381 535,381 L 535 381 L 741 381' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MTL-BERT' d='M 385 315 C 460,315 410,403 485,403 L 485 403 L 741 403' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ChemBERT' d='M 351 315 C 426,315 376,425 451,425 L 451 425 L 741 425' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MolBERT' d='M 293 315 C 368,315 318,447 393,447 L 393 447 L 741 447' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ClinicalBERT' d='M 235 315 C 310,315 260,469 335,469 L 335 469 L 741 469' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MatSciBERT' d='M 443 491 C 518,491 468,513 543,513 L 543 513 L 741 513' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_SciBERT' d='M 185 315 C 253.25,315 207.75,491 276,491 L 276 491 L 741 491' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Megatron-LM' d='M 185 315 C 253.25,315 207.75,535 276,535 L 276 535 L 741 535' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_BERT' d='M 85 711 C 160,711 110,315 185,315 L 185 315 L 741 315' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Mol-T5' d='M 435 623 C 510,623 460,579 535,579 L 535 579 L 741 579' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_TransAntivirus' d='M 551 623 C 626,623 576,601 651,601 L 651 601 L 741 601' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_Flan-T5' d='M 410 623 C 485,623 435,689 510,689 L 510 689 L 741 689' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_BioMol-T5+' d='M 618 623 C 693,623 643,645 718,645 L 718 645 L 741 645' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_Christofidellis2023' d='M 543 623 C 618,623 568,667 643,667 L 643 667 L 741 667' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_T5' d='M 185 711 C 260,711 210,623 285,623 L 285 623 L 741 623' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_Bard' d='M 226 997 C 301,997 251,1239 326,1239 L 326 1239 L 741 1239' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_BART' d='M 185 711 C 260,711 210,733 285,733 L 285 733 L 741 733' stroke='#bfd0d6' style='stroke-width:4;' />
-  <path id='__line_XLNet' d='M 151 997 C 226,997 176,755 251,755 L 251 755 L 741 755' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT-3' d='M 251 997 C 326,997 276,777 351,777 L 351 777 L 741 777' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Adilov2021' d='M 376 997 C 451,997 401,799 476,799 L 476 799 L 741 799' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Chinchila' d='M 426 997 C 501,997 451,821 526,821 L 526 821 L 741 821' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_BioGPT' d='M 476 997 C 551,997 501,843 576,843 L 576 843 L 741 843' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_PeTrans' d='M 510 997 C 585,997 535,865 610,865 L 610 865 L 741 865' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT-4' d='M 526 997 C 601,997 551,887 626,887 L 626 887 L 741 887' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_iupacGPT' d='M 543 997 C 618,997 568,909 643,909 L 643 909 L 741 909' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_LLaMa2' d='M 560 997 C 635,997 585,931 660,931 L 660 931 L 741 931' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_ChemSpaceAL' d='M 576 997 C 651,997 601,953 676,953 L 676 953 L 741 953' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_CONSMI' d='M 610 997 C 685,997 635,975 710,975 L 710 975 L 741 975' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT-2' d='M 118 997 C 193,997 143,1261 218,1261 L 218 1261 L 741 1261' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPTChem' d='M 618 997 C 693,997 643,1019 718,1019 L 718 1019 L 741 1019' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_AutoMolDesigner' d='M 610 997 C 685,997 635,1041 710,1041 L 710 1041 L 741 1041' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_BioMedGPT-LM' d='M 568 997 C 643,997 593,1063 668,1063 L 668 1063 L 741 1063' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_SGPT-RL' d='M 551 997 C 626,997 576,1085 651,1085 L 651 1085 L 741 1085' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Pythia' d='M 535 997 C 610,997 560,1107 635,1107 L 635 1107 L 741 1107' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_LLaMa' d='M 518 997 C 593,997 543,1129 618,1129 L 618 1129 L 741 1129' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Galactica' d='M 493 997 C 568,997 518,1151 593,1151 L 593 1151 L 741 1151' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_PaLM' d='M 435 997 C 510,997 460,1173 535,1173 L 535 1173 L 741 1173' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_MolGPT' d='M 385 997 C 460,997 410,1195 485,1195 L 485 1195 L 741 1195' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Codex' d='M 360 997 C 435,997 385,1217 460,1217 L 460 1217 L 741 1217' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT' d='M 51 711 C 95.25,711 65.75,997 110,997 L 110 997 L 741 997' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Transformers' d='M 51 711 L 741 711' stroke='#bf1238' style='stroke-width:4;' />
+  <path id='__line_ChemBERTa-2' d='M 476 95 C 551,95 501,73 576,73 L 576 73 L 743 73' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ChemBERTa' d='M 285 95 C 360,95 310,117 385,117 L 385 117 L 743 117' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_RoBERTa' d='M 185 315 C 241.25,315 203.75,95 260,95 L 260 95 L 743 95' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_SMILES-BERT' d='M 185 315 C 253.25,315 207.75,139 276,139 L 276 139 L 743 139' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BioBERT' d='M 218 315 C 293,315 243,161 318,161 L 318 161 L 743 161' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MolBERT' d='M 293 315 C 368,315 318,183 393,183 L 393 183 L 743 183' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ChemBERT' d='M 351 315 C 426,315 376,205 451,205 L 451 205 L 743 205' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MTL-BERT' d='M 385 315 C 460,315 410,227 485,227 L 485 227 L 743 227' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MatBERT' d='M 435 315 C 510,315 460,249 535,249 L 535 249 L 743 249' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ScholarBERT' d='M 443 315 C 518,315 468,271 543,271 L 543 271 L 743 271' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MaterialsBERT' d='M 535 315 C 610,315 560,293 635,293 L 635 293 L 743 293' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BlueBERT' d='M 185 315 C 234.5,315 201.5,557 251,557 L 251 557 L 743 557' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_SolvBERT' d='M 485 315 C 560,315 510,337 585,337 L 585 337 L 743 337' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MolFormer' d='M 443 315 C 518,315 468,359 543,359 L 543 359 L 743 359' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_PubMedBERT' d='M 385 315 C 460,315 410,381 485,381 L 485 381 L 743 381' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Mol-BERT' d='M 376 315 C 451,315 401,403 476,403 L 476 403 L 743 403' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Schwaller2020' d='M 301 315 C 376,315 326,425 401,425 L 401 425 L 743 425' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ClinicalBERT' d='M 235 315 C 310,315 260,447 335,447 L 335 447 L 743 447' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MatSciBERT' d='M 443 469 C 518,469 468,491 543,491 L 543 491 L 743 491' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_SciBERT' d='M 185 315 C 253.25,315 207.75,469 276,469 L 276 469 L 743 469' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Bio-Megatron' d='M 285 513 C 360,513 310,535 385,535 L 385 535 L 743 535' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Megatron-LM' d='M 185 315 C 253.25,315 207.75,513 276,513 L 276 513 L 743 513' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BERT' d='M 85 711 C 160,711 110,315 185,315 L 185 315 L 743 315' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Mol-T5' d='M 435 623 C 510,623 460,579 535,579 L 535 579 L 743 579' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_TransAntivirus' d='M 551 623 C 626,623 576,601 651,601 L 651 601 L 743 601' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_Flan-T5' d='M 410 623 C 485,623 435,689 510,689 L 510 689 L 743 689' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_BioMol-T5+' d='M 618 623 C 693,623 643,645 718,645 L 718 645 L 743 645' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_Christofidellis2023' d='M 543 623 C 618,623 568,667 643,667 L 643 667 L 743 667' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_T5' d='M 185 711 C 260,711 210,623 285,623 L 285 623 L 743 623' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_Bard' d='M 226 997 C 301,997 251,1239 326,1239 L 326 1239 L 743 1239' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_BART' d='M 185 711 C 260,711 210,733 285,733 L 285 733 L 743 733' stroke='#bfd0d6' style='stroke-width:4;' />
+  <path id='__line_XLNet' d='M 151 997 C 226,997 176,755 251,755 L 251 755 L 743 755' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPT-3' d='M 251 997 C 326,997 276,777 351,777 L 351 777 L 743 777' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Adilov2021' d='M 376 997 C 451,997 401,799 476,799 L 476 799 L 743 799' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Chinchila' d='M 426 997 C 501,997 451,821 526,821 L 526 821 L 743 821' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_BioGPT' d='M 476 997 C 551,997 501,843 576,843 L 576 843 L 743 843' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_PeTrans' d='M 510 997 C 585,997 535,865 610,865 L 610 865 L 743 865' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPT-4' d='M 526 997 C 601,997 551,887 626,887 L 626 887 L 743 887' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_iupacGPT' d='M 543 997 C 618,997 568,909 643,909 L 643 909 L 743 909' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_LLaMa2' d='M 560 997 C 635,997 585,931 660,931 L 660 931 L 743 931' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_ChemSpaceAL' d='M 576 997 C 651,997 601,953 676,953 L 676 953 L 743 953' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_CONSMI' d='M 610 997 C 685,997 635,975 710,975 L 710 975 L 743 975' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPT-2' d='M 118 997 C 193,997 143,1261 218,1261 L 218 1261 L 743 1261' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPTChem' d='M 618 997 C 693,997 643,1019 718,1019 L 718 1019 L 743 1019' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_AutoMolDesigner' d='M 610 997 C 685,997 635,1041 710,1041 L 710 1041 L 743 1041' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_BioMedGPT-LM' d='M 568 997 C 643,997 593,1063 668,1063 L 668 1063 L 743 1063' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_SGPT-RL' d='M 551 997 C 626,997 576,1085 651,1085 L 651 1085 L 743 1085' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Pythia' d='M 535 997 C 610,997 560,1107 635,1107 L 635 1107 L 743 1107' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_LLaMa' d='M 518 997 C 593,997 543,1129 618,1129 L 618 1129 L 743 1129' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Galactica' d='M 493 997 C 568,997 518,1151 593,1151 L 593 1151 L 743 1151' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_PaLM' d='M 435 997 C 510,997 460,1173 535,1173 L 535 1173 L 743 1173' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_MolGPT' d='M 385 997 C 460,997 410,1195 485,1195 L 485 1195 L 743 1195' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Codex' d='M 360 997 C 435,997 385,1217 460,1217 L 460 1217 L 743 1217' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPT' d='M 51 711 C 95.25,711 65.75,997 110,997 L 110 997 L 743 997' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Transformers' d='M 51 711 L 743 711' stroke='#bf1238' style='stroke-width:4;' />
 </g>
 
 <g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
@@ -685,23 +234,23 @@ style='opacity:0.6;' >
   <circle id='__dot_RoBERTa' cx='260' cy='95' r='7' fill='#0169c9' stroke='none' />
   <circle id='__dot_SMILES-BERT' cx='276' cy='139' r='7' fill='#0169c9' stroke='none' />
   <circle id='__dot_BioBERT' cx='318' cy='161' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Bio-Megatron' cx='385' cy='183' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Schwaller2020' cx='401' cy='205' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Mol-BERT' cx='476' cy='227' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_PubMedBERT' cx='485' cy='249' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MolFormer' cx='543' cy='271' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_SolvBERT' cx='585' cy='293' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MolBERT' cx='393' cy='183' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ChemBERT' cx='451' cy='205' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MTL-BERT' cx='485' cy='227' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MatBERT' cx='535' cy='249' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ScholarBERT' cx='543' cy='271' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MaterialsBERT' cx='635' cy='293' r='7' fill='#0169c9' stroke='none' />
   <circle id='__dot_BlueBERT' cx='251' cy='557' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MaterialsBERT' cx='635' cy='337' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ScholarBERT' cx='543' cy='359' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MatBERT' cx='535' cy='381' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MTL-BERT' cx='485' cy='403' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ChemBERT' cx='451' cy='425' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MolBERT' cx='393' cy='447' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ClinicalBERT' cx='335' cy='469' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MatSciBERT' cx='543' cy='513' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_SciBERT' cx='276' cy='491' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Megatron-LM' cx='276' cy='535' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_SolvBERT' cx='585' cy='337' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MolFormer' cx='543' cy='359' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_PubMedBERT' cx='485' cy='381' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Mol-BERT' cx='476' cy='403' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Schwaller2020' cx='401' cy='425' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ClinicalBERT' cx='335' cy='447' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MatSciBERT' cx='543' cy='491' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_SciBERT' cx='276' cy='469' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Bio-Megatron' cx='385' cy='535' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Megatron-LM' cx='276' cy='513' r='7' fill='#0169c9' stroke='none' />
   <circle id='__dot_BERT' cx='185' cy='315' r='7' fill='#0169c9' stroke='none' />
   <circle id='__dot_Mol-T5' cx='535' cy='579' r='7' fill='#c7bff0' stroke='none' />
   <circle id='__dot_TransAntivirus' cx='651' cy='601' r='7' fill='#c7bff0' stroke='none' />
@@ -752,40 +301,40 @@ style='opacity:0.6;' >
   <a xlink:href='https://dl.acm.org/doi/10.1145/3307339.3342186'><text x='283' y='134'  >SMILES-BERT</text></a>
   <rect x='323' y='143' width='68' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
   <a xlink:href='https://academic.oup.com/bioinformatics/article/36/4/1234/5566506'><text x='325' y='156'  >BioBERT</text></a>
-  <rect x='390' y='165' width='101' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2010.06060'><text x='392' y='178'  >Bio-Megatron</text></a>
-  <rect x='406' y='187' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2012.06051'><text x='408' y='200'  >Schwaller2020</text></a>
-  <rect x='481' y='209' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.hindawi.com/journals/wcmc/2021/7181815/'><text x='483' y='222'  >Mol-BERT</text></a>
-  <rect x='490' y='231' width='105' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://dl.acm.org/doi/10.1145/3458754'><text x='492' y='244'  >PubMedBERT</text></a>
-  <rect x='548' y='253' width='80' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.researchsquare.com/article/rs-1570270/v1'><text x='550' y='266'  >MolFormer</text></a>
-  <rect x='590' y='275' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e'><text x='592' y='288'  >SolvBERT</text></a>
+  <rect x='398' y='165' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='400' y='178'  >MolBERT</text></a>
+  <rect x='456' y='187' width='87' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284'><text x='458' y='200'  >ChemBERT</text></a>
+  <rect x='490' y='209' width='81' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2110.03895'><text x='492' y='222'  >MTL-BERT</text></a>
+  <rect x='540' y='231' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='542' y='244'  >MatBERT</text></a>
+  <rect x='548' y='253' width='100' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2205.11342'><text x='550' y='266'  >ScholarBERT</text></a>
+  <rect x='640' y='275' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.nature.com/articles/s41524-023-01003-w'><text x='642' y='288'  >MaterialsBERT</text></a>
   <rect x='256' y='539' width='77' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
   <a xlink:href='https://arxiv.org/abs/1906.05474'><text x='258' y='552'  >BlueBERT</text></a>
-  <rect x='640' y='319' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.nature.com/articles/s41524-023-01003-w'><text x='642' y='332'  >MaterialsBERT</text></a>
-  <rect x='548' y='341' width='100' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2205.11342'><text x='550' y='354'  >ScholarBERT</text></a>
-  <rect x='540' y='363' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='542' y='376'  >MatBERT</text></a>
-  <rect x='490' y='385' width='81' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2110.03895'><text x='492' y='398'  >MTL-BERT</text></a>
-  <rect x='456' y='407' width='87' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284'><text x='458' y='420'  >ChemBERT</text></a>
-  <rect x='398' y='429' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='400' y='442'  >MolBERT</text></a>
-  <rect x='340' y='451' width='98' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1904.05342'><text x='342' y='464'  >ClinicalBERT</text></a>
-  <rect x='548' y='495' width='93' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.nature.com/articles/s41524-022-00784-w'><text x='550' y='508'  >MatSciBERT</text></a>
-  <rect x='281' y='473' width='66' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1903.10676'><text x='283' y='486'  >SciBERT</text></a>
-  <rect x='281' y='517' width='99' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1909.08053'><text x='283' y='530'  >Megatron-LM</text></a>
+  <rect x='590' y='319' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e'><text x='592' y='332'  >SolvBERT</text></a>
+  <rect x='548' y='341' width='80' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.researchsquare.com/article/rs-1570270/v1'><text x='550' y='354'  >MolFormer</text></a>
+  <rect x='490' y='363' width='105' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://dl.acm.org/doi/10.1145/3458754'><text x='492' y='376'  >PubMedBERT</text></a>
+  <rect x='481' y='385' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.hindawi.com/journals/wcmc/2021/7181815/'><text x='483' y='398'  >Mol-BERT</text></a>
+  <rect x='406' y='407' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2012.06051'><text x='408' y='420'  >Schwaller2020</text></a>
+  <rect x='340' y='429' width='98' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1904.05342'><text x='342' y='442'  >ClinicalBERT</text></a>
+  <rect x='548' y='473' width='93' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.nature.com/articles/s41524-022-00784-w'><text x='550' y='486'  >MatSciBERT</text></a>
+  <rect x='281' y='451' width='66' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1903.10676'><text x='283' y='464'  >SciBERT</text></a>
+  <rect x='390' y='517' width='101' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2010.06060'><text x='392' y='530'  >Bio-Megatron</text></a>
+  <rect x='281' y='495' width='99' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1909.08053'><text x='283' y='508'  >Megatron-LM</text></a>
   <rect x='190' y='297' width='43' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
   <a xlink:href='https://arxiv.org/abs/1810.04805'><text x='192' y='310'  >BERT</text></a>
   <rect x='540' y='561' width='51' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
@@ -882,19 +431,19 @@ style='opacity:0.6;' >
 
 <g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
  style='stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
-  <rect x='900' y='50' width='500' height='350' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
-  <rect x='900' y='50' width='500' height='350' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
-  <text x='911' y='88'><tspan style='font-size:32px;font-weight:bold;'>LLMs Distributions Timeline</tspan></text>
-  <text x='911' y='111'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.0.0</tspan></tspan></text>
-  <text x='911' y='131'><tspan style='font-size:16px;'></tspan></text>
-  <text x='911' y='151'><tspan style='font-size:16px;'>© Mayk Caldas Ramos†, Chris Collison‡, Andrew D. White†*</tspan></text>
-  <text x='911' y='171'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>† - University of Rochester</tspan></tspan></text>
-  <text x='911' y='191'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>‡ - Rochester Institute of Technology</tspan></tspan></text>
-  <text x='911' y='211'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>* - Future House</tspan></tspan></text>
-  <text x='911' y='231'><tspan style='font-size:16px;'></tspan></text>
-  <text x='911' y='251'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>https://github.com/maykcaldas/LLM-in-science</tspan></tspan></text>
-  <text x='911' y='271'><tspan style='font-size:16px;'>Original source: futurist.se/gldt</tspan></text>
-  <text x='911' y='291'><tspan style='font-size:16px;'>Published under the GNU Free Documentation License</tspan></text>
+  <rect x='950' y='50' width='500' height='350' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='950' y='50' width='500' height='350' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='961' y='88'><tspan style='font-size:32px;font-weight:bold;'>LLMs Distributions Timeline</tspan></text>
+  <text x='961' y='111'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.0.0</tspan></tspan></text>
+  <text x='961' y='131'><tspan style='font-size:16px;'></tspan></text>
+  <text x='961' y='151'><tspan style='font-size:16px;'>© Mayk Caldas Ramos†, Chris Collison‡, Andrew D. White†*</tspan></text>
+  <text x='961' y='171'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>† - University of Rochester</tspan></tspan></text>
+  <text x='961' y='191'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>‡ - Rochester Institute of Technology</tspan></tspan></text>
+  <text x='961' y='211'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>* - Future House</tspan></tspan></text>
+  <text x='961' y='231'><tspan style='font-size:16px;'></tspan></text>
+  <text x='961' y='251'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>https://github.com/maykcaldas/LLM-in-science</tspan></tspan></text>
+  <text x='961' y='271'><tspan style='font-size:16px;'>Original source: futurist.se/gldt</tspan></text>
+  <text x='961' y='291'><tspan style='font-size:16px;'>Published under the GNU Free Documentation License</tspan></text>
 </g>
 
 <!-- BEGIN additional images -->
@@ -903,152 +452,6 @@ style='opacity:0.6;' >
 </g>
 
 <g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
-  <g transform='translate(10,73)' >
-
-    <g id="tux_new_crystal" transform="scale(0.30) translate(-350, -90)" inkscape:label="#g2222">
-      <path
-         style="fill:url(#radialGradient176);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path175"
-         d="m 670.88202,1166.6423 c 0,103.073 -91.28713,186.6302 -203.89551,186.6302 -112.60838,0 -203.89551,-83.5572 -203.89551,-186.6302 0,-103.073 91.28713,-186.63012 203.89551,-186.63012 112.60838,0 203.89551,83.55712 203.89551,186.63012 z"
-         transform="matrix(1.4177,0,0,0.414745,-38.7944,222.194)" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 223.627,632.24 c -22.388,-32.223 -26.754,-136.984 25.487,-201.43 25.886,-30.918 32.49,-52.465 34.531,-81.393 1.389,-32.979 -23.325,-131.442 69.883,-138.944 94.406,-7.532 89.336,85.66 88.793,134.975 -0.451,41.64 30.574,65.241 51.796,97.695 39.279,59.63 35.957,162.3 -7.399,217.872 -54.917,69.568 -101.953,39.398 -133.19,41.93 -58.493,3.202 -60.427,34.391 -129.901,-70.705 z"
-         id="path106"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         style="fill:url(#linearGradient157);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 246.571,470.864 c -12.239,12.496 -44.396,69.092 4.869,105.36 17.369,12.633 -16.377,59.495 -32.005,36.308 -27.57,-41.618 -8.831,-106.941 8.315,-130.188 11.652,-16.487 29.23,-22.676 18.821,-11.48 z"
-         id="path113"
-         transform="matrix(-1.67739,-0.0224516,-0.0211236,1.4709,1173.58,-293.017)" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.977;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 256.513,459.837 c -19.915,17.717 -56.176,80.091 -3.288,120.606 17.37,12.632 -15.393,52.463 -33.79,32.089 -63.963,-70.82 1.669,-152.254 24.262,-180.25 20.192,-24.347 38.078,5.752 12.816,27.555 z"
-         id="path111"
-         transform="matrix(-1.678,0,0,1.524,1174.62,-318.082)" />
-      <path
-         style="fill:url(#linearGradient141);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path114"
-         d="m 399.56879,258.15753 c 0,25.88173 -26.13459,46.86302 -58.37323,46.86302 -32.23865,0 -58.37323,-20.98129 -58.37323,-46.86302 0,-25.88173 26.13458,-46.86302 58.37323,-46.86302 32.23864,0 58.37323,20.98129 58.37323,46.86302 z"
-         transform="matrix(1.26626,-0.0713667,-0.0459795,1.19574,202.143,-125.761)" />
-      <path
-         style="fill:url(#linearGradient159);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path115"
-         d="m 328.86324,320.64151 c 0,14.98415 -8.09804,27.1312 -18.08748,27.1312 -9.98944,0 -18.08748,-12.14705 -18.08748,-27.1312 0,-14.98415 8.09804,-27.1312 18.08748,-27.1312 9.98944,0 18.08748,12.14705 18.08748,27.1312 z"
-         transform="matrix(1.30445,-0.0755326,0.0771251,1.34257,144.757,-177.617)" />
-      <path
-         style="fill:url(#linearGradient158);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path116"
-         d="m 328.86324,320.64151 c 0,14.98415 -8.09804,27.1312 -18.08748,27.1312 -9.98944,0 -18.08748,-12.14705 -18.08748,-27.1312 0,-14.98415 8.09804,-27.1312 18.08748,-27.1312 9.98944,0 18.08748,12.14705 18.08748,27.1312 z"
-         transform="matrix(-1.81082,0.0495107,0.0317324,1.55333,1207.46,-284.777)" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path117"
-         d="m 328.86324,320.64151 c 0,14.98415 -8.09804,27.1312 -18.08748,27.1312 -9.98944,0 -18.08748,-12.14705 -18.08748,-27.1312 0,-14.98415 8.09804,-27.1312 18.08748,-27.1312 9.98944,0 18.08748,12.14705 18.08748,27.1312 z"
-         transform="matrix(-0.823196,-0.00176123,-0.0182321,0.852662,913.674,-37.9902)" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path118"
-         d="m 328.86324,320.64151 c 0,14.98415 -8.09804,27.1312 -18.08748,27.1312 -9.98944,0 -18.08748,-12.14705 -18.08748,-27.1312 0,-14.98415 8.09804,-27.1312 18.08748,-27.1312 9.98944,0 18.08748,12.14705 18.08748,27.1312 z"
-         transform="matrix(0.59438,-0.0722959,0.0688176,0.705838,367.448,32.4186)" />
-      <path
-         style="fill:url(#linearGradient143);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path121"
-         d="m 328.86324,320.64151 c 0,14.98415 -8.09804,27.1312 -18.08748,27.1312 -9.98944,0 -18.08748,-12.14705 -18.08748,-27.1312 0,-14.98415 8.09804,-27.1312 18.08748,-27.1312 9.98944,0 18.08748,12.14705 18.08748,27.1312 z"
-         transform="matrix(-0.480323,-0.036454,-0.0467935,0.475606,813.496,87.0124)" />
-      <path
-         style="fill:url(#linearGradient144);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         id="path122"
-         d="m 328.86324,320.64151 c 0,14.98415 -8.09804,27.1312 -18.08748,27.1312 -9.98944,0 -18.08748,-12.14705 -18.08748,-27.1312 0,-14.98415 8.09804,-27.1312 18.08748,-27.1312 9.98944,0 18.08748,12.14705 18.08748,27.1312 z"
-         transform="matrix(0.35691,-0.0408211,0.0413232,0.398544,449.334,114.991)" />
-      <path
-         style="fill:url(#linearGradient152);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 258.702,495.425 c 12.836,-29.103 40.114,-80.226 40.695,-119.758 0,-31.442 94.179,-38.951 101.737,-7.558 7.558,31.393 26.741,78.483 38.95,101.156 12.208,22.672 47.809,94.695 9.884,157.546 -34.157,55.644 -137.725,99.666 -193.01,-7.557 -18.603,-37.207 -15.285,-83.315 1.744,-123.829 z"
-         id="path128"
-         transform="matrix(1.25,0,0,1.25,185.454,-168.23)" />
-      <path
-         style="fill:url(#linearGradient156);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 242.905,473.815 c -11.263,18.967 -35.5,69.309 12.137,102.047 51.311,34.82 46.473,97.062 -15.607,61.955 -56.777,-31.789 -22.845,-137.778 -4.51,-162.266 12.107,-17.214 29.897,-38.031 7.98,-1.736 z"
-         id="path112"
-         transform="matrix(1.38936,-0.111074,0.102211,1.30214,108.413,-165.938)" />
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 256.513,449.72 c -17.465,28.508 -59.377,95.813 -3.288,130.723 75.569,46.355 54.173,92.711 -14.799,50.974 -97.109,-58.264 -11.825,-175.616 27.131,-220.338 44.444,-50.2 8.554,9.087 -9.044,38.641 z"
-         id="path109"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         transform="matrix(1.30209,0,0,1.22525,170.042,-153.557)"
-         style="fill:url(#linearGradient149);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 421.481,504.727 c 0,32.412 -29.272,74.516 -79.528,74.138 -51.828,0.455 -73.949,-41.726 -73.949,-74.138 0,-32.412 34.379,-58.717 76.739,-58.717 42.359,0 76.738,26.305 76.738,58.717 z"
-         id="path125" />
-      <path
-         transform="matrix(1.1868,0,0,1.06708,210.623,-100.078)"
-         style="fill:url(#linearGradient148);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 398.227,412.292 c -0.612,38.572 -23.18,47.671 -51.74,47.671 -28.561,0 -49.292,-5.694 -51.741,-47.671 0,-26.314 23.18,-41.542 51.741,-41.542 28.56,0 51.74,15.228 51.74,41.542 z"
-         id="path127" />
-      <path
-         style="fill:url(#linearGradient147);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 234.285,456.475 c 17.716,-26.996 55.015,-68.364 6.977,5.813 -38.951,61.043 -14.403,100.273 -1.744,111.039 36.527,32.562 34.966,54.349 6.395,37.206 -61.625,-36.626 -48.835,-98.248 -11.628,-154.058 z"
-         id="path129"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         style="fill:url(#linearGradient146);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 490.662,467.52 c -15.319,-31.701 -64.134,-111.902 2.326,-18.603 60.461,84.297 18.022,143.013 10.464,148.827 -7.557,5.813 -33.137,17.44 -25.579,-2.907 7.557,-20.347 45.234,-58.973 12.789,-127.317 z"
-         id="path131"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         style="fill:url(#linearGradient165);fill-opacity:1;fill-rule:evenodd;stroke:#e68c3f;stroke-width:6.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 220.915,716.921 c -40.442,-21.416 -99.252,4.124 -77.902,-54.066 4.276,-13.238 -6.375,-33.008 0.581,-45.926 8.139,-15.698 25.58,-12.209 36.045,-22.674 10.318,-10.891 16.859,-29.649 36.044,-26.742 19.184,2.907 31.945,26.461 45.344,55.229 9.883,20.638 44.941,49.664 42.65,72.758 -2.696,35.5 -43.027,42.19 -82.762,21.421 z"
-         id="path132"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         transform="matrix(0.598206,0.268584,-0.239623,0.617213,700.568,140.464)"
-         style="fill:url(#linearGradient178);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 415.072,495.764 c -3.007,24.906 -35.813,76.627 -69.518,81.534 -34.26,5.336 -66.432,-34.06 -74.147,-71.114 -9.889,-41.206 22.587,-57.6 71.938,-56.627 53.301,1.654 74.121,13.891 71.727,46.207 z"
-         id="path177" />
-      <path
-         style="fill:url(#linearGradient161);fill-opacity:1;fill-rule:evenodd;stroke:#e68c3f;stroke-width:6.25067997;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 220.274,718.402 c -41.327,-23.59 -99.894,5.605 -77.261,-55.547 4.736,-13.068 -6.596,-33.552 0.36,-46.47 8.139,-15.698 25.801,-11.665 36.266,-22.13 10.318,-10.891 18.827,-27.868 38.012,-24.961 19.184,2.907 29.977,24.68 43.376,53.448 9.883,20.638 43.415,48.971 41.124,72.065 -2.696,35.5 -42.724,45.471 -81.877,23.595 z"
-         id="path133"
-         transform="matrix(-1.1685,0.423145,0.475283,1.16478,728.343,-213.821)" />
-      <path
-         style="fill:url(#linearGradient150);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 216.482,675.68 c -86.531,-57.503 -47.308,-70.96 -36.843,-81.425 10.318,-10.891 18.827,-27.868 38.012,-24.961 19.184,2.907 29.977,24.68 43.376,53.448 9.883,20.638 43.06,48.918 41.124,72.065 -2.616,27.11 -48.19,5.487 -85.669,-19.127 z"
-         id="path134"
-         transform="matrix(-0.945096,0.343745,0.424076,0.956058,714.328,-64.342)" />
-      <path
-         style="fill:url(#linearGradient151);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 216.506,677.071 c -86.531,-57.503 -46.797,-73.57 -33.946,-81.28 15.399,-9.942 15.158,-30.831 34.343,-27.924 19.184,2.907 30.725,26.107 44.124,54.875 9.883,20.638 43.06,48.918 41.124,72.065 -2.616,27.11 -48.166,6.878 -85.645,-17.736 z"
-         id="path135"
-         transform="matrix(1.00431,-0.052286,-0.0174,1.04575,244.191,-28.4653)" />
-      <path
-         transform="matrix(0.515584,0.215259,-0.206526,0.49467,713.3,222.559)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 415.072,495.764 c -3.007,24.906 -35.813,76.627 -69.518,81.534 -34.26,5.336 -66.432,-34.06 -74.147,-71.114 -9.889,-41.206 22.587,-57.6 71.938,-56.627 53.301,1.654 74.121,13.891 71.727,46.207 z"
-         id="path136" />
-      <path
-         transform="matrix(0.351231,0.149463,-0.128856,0.343469,724.522,318.291)"
-         style="fill:url(#linearGradient145);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 415.072,495.764 c -3.007,24.906 -35.813,76.627 -69.518,81.534 -34.26,5.336 -66.432,-34.06 -74.147,-71.114 -9.889,-41.206 22.587,-57.6 71.938,-56.627 53.301,1.654 74.121,13.891 71.727,46.207 z"
-         id="path137" />
-      <path
-         style="fill:url(#linearGradient166);fill-opacity:1;fill-rule:evenodd;stroke:#e68c3f;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 309.954,338.729 c 7.147,-6.77 24.811,-27.066 57.961,-5.755 6.162,4.01 11.162,4.377 23.021,9.455 23.726,9.749 12.382,33.259 -12.744,41.108 -10.758,3.489 -20.536,16.556 -40.129,15.439 -16.734,-0.977 -21.119,-11.874 -31.398,-17.906 -18.269,-10.311 -20.965,-24.254 -11.1,-31.653 9.866,-7.399 13.725,-10.059 14.389,-10.688 z"
-         id="path119"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         style="fill:none;stroke:#e68c3f;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none;"
-         d="m 391.251,357.645 c -9.883,0.581 -31.393,22.091 -54.066,22.091 -22.673,0 -36.044,-20.929 -39.532,-20.929"
-         id="path120"
-         transform="matrix(1.25,0,0,1.25,185.454,-167.505)" />
-      <path
-         style="fill:url(#linearGradient4514);fill-opacity:1;fill-rule:evenodd;stroke:none;"
-         d="m 309.954,338.729 c 7.147,-6.77 29.691,-25.348 59.588,-6.328 6.299,3.766 12.804,7.865 22.478,13.464 19.162,11.748 9.671,28.678 -13.286,39.39 -10.418,4.495 -27.593,14.415 -40.671,13.721 -14.533,-1.408 -23.935,-11.399 -33.567,-17.906 -17.67,-12.303 -16.597,-22.237 -8.389,-30.508 6.205,-5.679 13.183,-11.204 13.847,-11.833 z"
-         id="path123"
-         transform="matrix(0.627885,0,0,0.595666,392.366,51.8173)" />
-    </g>
-
-  </g>
 </g>
 
 <!-- END additional images -->

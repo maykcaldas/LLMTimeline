@@ -32,16 +32,16 @@
 "N","BART","#bfd0d6","Transformers","2019.10","",,"https://arxiv.org/abs/1910.13461",,,,,,,,,
 # End of BART
 
-"N","BERT","#0169c9","Transformers","2018.10","",,"https://arxiv.org/abs/1810.04805",,,,,,,,,
 # BERT variations
+"N","BERT","#0169c9","Transformers","2018.10","",,"https://arxiv.org/abs/1810.04805",,,,,,,,,
 
-"N","Megatron-LM","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1909.08053",,,,,,,,,
 ## Megatron variations
-"N","Bio-Megatron","#0169c9","BERT","2020.10","",,"https://arxiv.org/abs/2010.06060",,,,,,,,,
+"N","Megatron-LM","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1909.08053",,,,,,,,,
+"N","Bio-Megatron","#0169c9","Megatron-LM","2020.10","",,"https://arxiv.org/abs/2010.06060",,,,,,,,,
 ## End of Megatron
 
-"N","RoBERTa","#0169c9","BERT","2019.7","",,"https://arxiv.org/abs/1907.11692",,,,,,,,,
 ## RoBERTa variations
+"N","RoBERTa","#0169c9","BERT","2019.7","",,"https://arxiv.org/abs/1907.11692",,,,,,,,,
 "N","ChemBERTa","#0169c9","RoBERTa","2020.10","",,"https://arxiv.org/abs/2010.09885",,,,,,,,,
 "N","ChemBERTa-2","#0169c9","RoBERTa","2022.9","",,"https://arxiv.org/abs/2209.01712",,,,,,,,,
 ## End of RoBERTa
@@ -124,6 +124,6 @@
 ,,,,,,,,,,,,,,,,
 "#","Images",,,,,,,,,,,,,,,
 "#","File Path","x Position","y Position",,,,,,,,,,,,,
-"SVG","images/tux.svg","0","0",,,,,,,,,,,,,
+"#SVG","images/tux.svg","0","0",,,,,,,,,,,,,
 "#SVG","images/gnu.svg","140","190",,,,,,,,,,,,,
 "#SVG","images/info-connectors.svg","120","270",,,,,,,,,,,,,
