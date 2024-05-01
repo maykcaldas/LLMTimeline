@@ -12,7 +12,7 @@
   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
   version='1.1'
   width='920'
-  height='1334'
+  height='1466'
 >
 
 <title>LLMs Distributions Timeline</title>
@@ -46,119 +46,119 @@
 </defs>
 
 <g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
-  <rect x='0' y='0' width='920' height='1334' rx='11' ry='11' fill='#fff' />
+  <rect x='0' y='0' width='920' height='1466' rx='11' ry='11' fill='#fff' />
 </g>
 
 <g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='0' stroke='#f0f0f0'>
-  <line x1='10' y1='0' x2='10' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='18' y1='0' x2='18' y2='1334' />
-    <line x1='26' y1='0' x2='26' y2='1334' />
-    <line x1='35' y1='0' x2='35' y2='1334' />
-    <line x1='43' y1='0' x2='43' y2='1334' />
-    <line x1='51' y1='0' x2='51' y2='1334' />
-    <line x1='60' y1='0' x2='60' y2='1334' />
-    <line x1='68' y1='0' x2='68' y2='1334' />
-    <line x1='76' y1='0' x2='76' y2='1334' />
-    <line x1='85' y1='0' x2='85' y2='1334' />
-    <line x1='93' y1='0' x2='93' y2='1334' />
-    <line x1='101' y1='0' x2='101' y2='1334' />
-  <line x1='110' y1='0' x2='110' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='118' y1='0' x2='118' y2='1334' />
-    <line x1='126' y1='0' x2='126' y2='1334' />
-    <line x1='135' y1='0' x2='135' y2='1334' />
-    <line x1='143' y1='0' x2='143' y2='1334' />
-    <line x1='151' y1='0' x2='151' y2='1334' />
-    <line x1='160' y1='0' x2='160' y2='1334' />
-    <line x1='168' y1='0' x2='168' y2='1334' />
-    <line x1='176' y1='0' x2='176' y2='1334' />
-    <line x1='185' y1='0' x2='185' y2='1334' />
-    <line x1='193' y1='0' x2='193' y2='1334' />
-    <line x1='201' y1='0' x2='201' y2='1334' />
-  <line x1='210' y1='0' x2='210' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='218' y1='0' x2='218' y2='1334' />
-    <line x1='226' y1='0' x2='226' y2='1334' />
-    <line x1='235' y1='0' x2='235' y2='1334' />
-    <line x1='243' y1='0' x2='243' y2='1334' />
-    <line x1='251' y1='0' x2='251' y2='1334' />
-    <line x1='260' y1='0' x2='260' y2='1334' />
-    <line x1='268' y1='0' x2='268' y2='1334' />
-    <line x1='276' y1='0' x2='276' y2='1334' />
-    <line x1='285' y1='0' x2='285' y2='1334' />
-    <line x1='293' y1='0' x2='293' y2='1334' />
-    <line x1='301' y1='0' x2='301' y2='1334' />
-  <line x1='310' y1='0' x2='310' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='318' y1='0' x2='318' y2='1334' />
-    <line x1='326' y1='0' x2='326' y2='1334' />
-    <line x1='335' y1='0' x2='335' y2='1334' />
-    <line x1='343' y1='0' x2='343' y2='1334' />
-    <line x1='351' y1='0' x2='351' y2='1334' />
-    <line x1='360' y1='0' x2='360' y2='1334' />
-    <line x1='368' y1='0' x2='368' y2='1334' />
-    <line x1='376' y1='0' x2='376' y2='1334' />
-    <line x1='385' y1='0' x2='385' y2='1334' />
-    <line x1='393' y1='0' x2='393' y2='1334' />
-    <line x1='401' y1='0' x2='401' y2='1334' />
-  <line x1='410' y1='0' x2='410' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='418' y1='0' x2='418' y2='1334' />
-    <line x1='426' y1='0' x2='426' y2='1334' />
-    <line x1='435' y1='0' x2='435' y2='1334' />
-    <line x1='443' y1='0' x2='443' y2='1334' />
-    <line x1='451' y1='0' x2='451' y2='1334' />
-    <line x1='460' y1='0' x2='460' y2='1334' />
-    <line x1='468' y1='0' x2='468' y2='1334' />
-    <line x1='476' y1='0' x2='476' y2='1334' />
-    <line x1='485' y1='0' x2='485' y2='1334' />
-    <line x1='493' y1='0' x2='493' y2='1334' />
-    <line x1='501' y1='0' x2='501' y2='1334' />
-  <line x1='510' y1='0' x2='510' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='518' y1='0' x2='518' y2='1334' />
-    <line x1='526' y1='0' x2='526' y2='1334' />
-    <line x1='535' y1='0' x2='535' y2='1334' />
-    <line x1='543' y1='0' x2='543' y2='1334' />
-    <line x1='551' y1='0' x2='551' y2='1334' />
-    <line x1='560' y1='0' x2='560' y2='1334' />
-    <line x1='568' y1='0' x2='568' y2='1334' />
-    <line x1='576' y1='0' x2='576' y2='1334' />
-    <line x1='585' y1='0' x2='585' y2='1334' />
-    <line x1='593' y1='0' x2='593' y2='1334' />
-    <line x1='601' y1='0' x2='601' y2='1334' />
-  <line x1='610' y1='0' x2='610' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='618' y1='0' x2='618' y2='1334' />
-    <line x1='626' y1='0' x2='626' y2='1334' />
-    <line x1='635' y1='0' x2='635' y2='1334' />
-    <line x1='643' y1='0' x2='643' y2='1334' />
-    <line x1='651' y1='0' x2='651' y2='1334' />
-    <line x1='660' y1='0' x2='660' y2='1334' />
-    <line x1='668' y1='0' x2='668' y2='1334' />
-    <line x1='676' y1='0' x2='676' y2='1334' />
-    <line x1='685' y1='0' x2='685' y2='1334' />
-    <line x1='693' y1='0' x2='693' y2='1334' />
-    <line x1='701' y1='0' x2='701' y2='1334' />
-  <line x1='710' y1='0' x2='710' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='718' y1='0' x2='718' y2='1334' />
-    <line x1='726' y1='0' x2='726' y2='1334' />
-    <line x1='735' y1='0' x2='735' y2='1334' />
-    <line x1='743' y1='0' x2='743' y2='1334' />
-    <line x1='751' y1='0' x2='751' y2='1334' />
-    <line x1='760' y1='0' x2='760' y2='1334' />
-    <line x1='768' y1='0' x2='768' y2='1334' />
-    <line x1='776' y1='0' x2='776' y2='1334' />
-    <line x1='785' y1='0' x2='785' y2='1334' />
-    <line x1='793' y1='0' x2='793' y2='1334' />
-    <line x1='801' y1='0' x2='801' y2='1334' />
-  <line x1='810' y1='0' x2='810' y2='1334' stroke-width='2' stroke='#e1e1e1' />
-    <line x1='818' y1='0' x2='818' y2='1334' />
-    <line x1='826' y1='0' x2='826' y2='1334' />
-    <line x1='835' y1='0' x2='835' y2='1334' />
-    <line x1='843' y1='0' x2='843' y2='1334' />
-    <line x1='851' y1='0' x2='851' y2='1334' />
-    <line x1='860' y1='0' x2='860' y2='1334' />
-    <line x1='868' y1='0' x2='868' y2='1334' />
-    <line x1='876' y1='0' x2='876' y2='1334' />
-    <line x1='885' y1='0' x2='885' y2='1334' />
-    <line x1='893' y1='0' x2='893' y2='1334' />
-    <line x1='901' y1='0' x2='901' y2='1334' />
-  <line x1='910' y1='0' x2='910' y2='1334' stroke-width='2' stroke='#e1e1e1' />
+  <line x1='10' y1='0' x2='10' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='18' y1='0' x2='18' y2='1466' />
+    <line x1='26' y1='0' x2='26' y2='1466' />
+    <line x1='35' y1='0' x2='35' y2='1466' />
+    <line x1='43' y1='0' x2='43' y2='1466' />
+    <line x1='51' y1='0' x2='51' y2='1466' />
+    <line x1='60' y1='0' x2='60' y2='1466' />
+    <line x1='68' y1='0' x2='68' y2='1466' />
+    <line x1='76' y1='0' x2='76' y2='1466' />
+    <line x1='85' y1='0' x2='85' y2='1466' />
+    <line x1='93' y1='0' x2='93' y2='1466' />
+    <line x1='101' y1='0' x2='101' y2='1466' />
+  <line x1='110' y1='0' x2='110' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='118' y1='0' x2='118' y2='1466' />
+    <line x1='126' y1='0' x2='126' y2='1466' />
+    <line x1='135' y1='0' x2='135' y2='1466' />
+    <line x1='143' y1='0' x2='143' y2='1466' />
+    <line x1='151' y1='0' x2='151' y2='1466' />
+    <line x1='160' y1='0' x2='160' y2='1466' />
+    <line x1='168' y1='0' x2='168' y2='1466' />
+    <line x1='176' y1='0' x2='176' y2='1466' />
+    <line x1='185' y1='0' x2='185' y2='1466' />
+    <line x1='193' y1='0' x2='193' y2='1466' />
+    <line x1='201' y1='0' x2='201' y2='1466' />
+  <line x1='210' y1='0' x2='210' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='218' y1='0' x2='218' y2='1466' />
+    <line x1='226' y1='0' x2='226' y2='1466' />
+    <line x1='235' y1='0' x2='235' y2='1466' />
+    <line x1='243' y1='0' x2='243' y2='1466' />
+    <line x1='251' y1='0' x2='251' y2='1466' />
+    <line x1='260' y1='0' x2='260' y2='1466' />
+    <line x1='268' y1='0' x2='268' y2='1466' />
+    <line x1='276' y1='0' x2='276' y2='1466' />
+    <line x1='285' y1='0' x2='285' y2='1466' />
+    <line x1='293' y1='0' x2='293' y2='1466' />
+    <line x1='301' y1='0' x2='301' y2='1466' />
+  <line x1='310' y1='0' x2='310' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='318' y1='0' x2='318' y2='1466' />
+    <line x1='326' y1='0' x2='326' y2='1466' />
+    <line x1='335' y1='0' x2='335' y2='1466' />
+    <line x1='343' y1='0' x2='343' y2='1466' />
+    <line x1='351' y1='0' x2='351' y2='1466' />
+    <line x1='360' y1='0' x2='360' y2='1466' />
+    <line x1='368' y1='0' x2='368' y2='1466' />
+    <line x1='376' y1='0' x2='376' y2='1466' />
+    <line x1='385' y1='0' x2='385' y2='1466' />
+    <line x1='393' y1='0' x2='393' y2='1466' />
+    <line x1='401' y1='0' x2='401' y2='1466' />
+  <line x1='410' y1='0' x2='410' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='418' y1='0' x2='418' y2='1466' />
+    <line x1='426' y1='0' x2='426' y2='1466' />
+    <line x1='435' y1='0' x2='435' y2='1466' />
+    <line x1='443' y1='0' x2='443' y2='1466' />
+    <line x1='451' y1='0' x2='451' y2='1466' />
+    <line x1='460' y1='0' x2='460' y2='1466' />
+    <line x1='468' y1='0' x2='468' y2='1466' />
+    <line x1='476' y1='0' x2='476' y2='1466' />
+    <line x1='485' y1='0' x2='485' y2='1466' />
+    <line x1='493' y1='0' x2='493' y2='1466' />
+    <line x1='501' y1='0' x2='501' y2='1466' />
+  <line x1='510' y1='0' x2='510' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='518' y1='0' x2='518' y2='1466' />
+    <line x1='526' y1='0' x2='526' y2='1466' />
+    <line x1='535' y1='0' x2='535' y2='1466' />
+    <line x1='543' y1='0' x2='543' y2='1466' />
+    <line x1='551' y1='0' x2='551' y2='1466' />
+    <line x1='560' y1='0' x2='560' y2='1466' />
+    <line x1='568' y1='0' x2='568' y2='1466' />
+    <line x1='576' y1='0' x2='576' y2='1466' />
+    <line x1='585' y1='0' x2='585' y2='1466' />
+    <line x1='593' y1='0' x2='593' y2='1466' />
+    <line x1='601' y1='0' x2='601' y2='1466' />
+  <line x1='610' y1='0' x2='610' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='618' y1='0' x2='618' y2='1466' />
+    <line x1='626' y1='0' x2='626' y2='1466' />
+    <line x1='635' y1='0' x2='635' y2='1466' />
+    <line x1='643' y1='0' x2='643' y2='1466' />
+    <line x1='651' y1='0' x2='651' y2='1466' />
+    <line x1='660' y1='0' x2='660' y2='1466' />
+    <line x1='668' y1='0' x2='668' y2='1466' />
+    <line x1='676' y1='0' x2='676' y2='1466' />
+    <line x1='685' y1='0' x2='685' y2='1466' />
+    <line x1='693' y1='0' x2='693' y2='1466' />
+    <line x1='701' y1='0' x2='701' y2='1466' />
+  <line x1='710' y1='0' x2='710' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='718' y1='0' x2='718' y2='1466' />
+    <line x1='726' y1='0' x2='726' y2='1466' />
+    <line x1='735' y1='0' x2='735' y2='1466' />
+    <line x1='743' y1='0' x2='743' y2='1466' />
+    <line x1='751' y1='0' x2='751' y2='1466' />
+    <line x1='760' y1='0' x2='760' y2='1466' />
+    <line x1='768' y1='0' x2='768' y2='1466' />
+    <line x1='776' y1='0' x2='776' y2='1466' />
+    <line x1='785' y1='0' x2='785' y2='1466' />
+    <line x1='793' y1='0' x2='793' y2='1466' />
+    <line x1='801' y1='0' x2='801' y2='1466' />
+  <line x1='810' y1='0' x2='810' y2='1466' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='818' y1='0' x2='818' y2='1466' />
+    <line x1='826' y1='0' x2='826' y2='1466' />
+    <line x1='835' y1='0' x2='835' y2='1466' />
+    <line x1='843' y1='0' x2='843' y2='1466' />
+    <line x1='851' y1='0' x2='851' y2='1466' />
+    <line x1='860' y1='0' x2='860' y2='1466' />
+    <line x1='868' y1='0' x2='868' y2='1466' />
+    <line x1='876' y1='0' x2='876' y2='1466' />
+    <line x1='885' y1='0' x2='885' y2='1466' />
+    <line x1='893' y1='0' x2='893' y2='1466' />
+    <line x1='901' y1='0' x2='901' y2='1466' />
+  <line x1='910' y1='0' x2='910' y2='1466' stroke-width='2' stroke='#e1e1e1' />
 </g>
 
 <g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
@@ -171,119 +171,131 @@ style='opacity:0.6;' >
 <g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
  style='fill:none;stroke-width:4;' >
   <path id='__line_ChemBERTa-2' d='M 476 95 C 551,95 501,73 576,73 L 576 73 L 743 73' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ChemBERTa' d='M 285 95 C 360,95 310,117 385,117 L 385 117 L 743 117' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_RoBERTa' d='M 185 315 C 241.25,315 203.75,95 260,95 L 260 95 L 743 95' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_SMILES-BERT' d='M 185 315 C 253.25,315 207.75,139 276,139 L 276 139 L 743 139' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_BioBERT' d='M 218 315 C 293,315 243,161 318,161 L 318 161 L 743 161' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MolBERT' d='M 293 315 C 368,315 318,183 393,183 L 393 183 L 743 183' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ChemBERT' d='M 351 315 C 426,315 376,205 451,205 L 451 205 L 743 205' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MTL-BERT' d='M 385 315 C 460,315 410,227 485,227 L 485 227 L 743 227' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MatBERT' d='M 435 315 C 510,315 460,249 535,249 L 535 249 L 743 249' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ScholarBERT' d='M 443 315 C 518,315 468,271 543,271 L 543 271 L 743 271' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MaterialsBERT' d='M 535 315 C 610,315 560,293 635,293 L 635 293 L 743 293' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_BlueBERT' d='M 185 315 C 234.5,315 201.5,557 251,557 L 251 557 L 743 557' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_SolvBERT' d='M 485 315 C 560,315 510,337 585,337 L 585 337 L 743 337' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MolFormer' d='M 443 315 C 518,315 468,359 543,359 L 543 359 L 743 359' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_PubMedBERT' d='M 385 315 C 460,315 410,381 485,381 L 485 381 L 743 381' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Mol-BERT' d='M 376 315 C 451,315 401,403 476,403 L 476 403 L 743 403' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Schwaller2020' d='M 301 315 C 376,315 326,425 401,425 L 401 425 L 743 425' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_ClinicalBERT' d='M 235 315 C 310,315 260,447 335,447 L 335 447 L 743 447' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_MatSciBERT' d='M 443 469 C 518,469 468,491 543,491 L 543 491 L 743 491' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_SciBERT' d='M 185 315 C 253.25,315 207.75,469 276,469 L 276 469 L 743 469' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Bio-Megatron' d='M 285 513 C 360,513 310,535 385,535 L 385 535 L 743 535' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Megatron-LM' d='M 185 315 C 253.25,315 207.75,513 276,513 L 276 513 L 743 513' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_BERT' d='M 85 711 C 160,711 110,315 185,315 L 185 315 L 743 315' stroke='#0169c9' style='stroke-width:4;' />
-  <path id='__line_Mol-T5' d='M 435 623 C 510,623 460,579 535,579 L 535 579 L 743 579' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_TransAntivirus' d='M 551 623 C 626,623 576,601 651,601 L 651 601 L 743 601' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_Flan-T5' d='M 410 623 C 485,623 435,689 510,689 L 510 689 L 743 689' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_BioMol-T5+' d='M 618 623 C 693,623 643,645 718,645 L 718 645 L 743 645' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_Christofidellis2023' d='M 543 623 C 618,623 568,667 643,667 L 643 667 L 743 667' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_T5' d='M 185 711 C 260,711 210,623 285,623 L 285 623 L 743 623' stroke='#c7bff0' style='stroke-width:4;' />
-  <path id='__line_Bard' d='M 226 997 C 301,997 251,1239 326,1239 L 326 1239 L 743 1239' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_BART' d='M 185 711 C 260,711 210,733 285,733 L 285 733 L 743 733' stroke='#bfd0d6' style='stroke-width:4;' />
-  <path id='__line_XLNet' d='M 151 997 C 226,997 176,755 251,755 L 251 755 L 743 755' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT-3' d='M 251 997 C 326,997 276,777 351,777 L 351 777 L 743 777' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Adilov2021' d='M 376 997 C 451,997 401,799 476,799 L 476 799 L 743 799' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Chinchila' d='M 426 997 C 501,997 451,821 526,821 L 526 821 L 743 821' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_BioGPT' d='M 476 997 C 551,997 501,843 576,843 L 576 843 L 743 843' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_PeTrans' d='M 510 997 C 585,997 535,865 610,865 L 610 865 L 743 865' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT-4' d='M 526 997 C 601,997 551,887 626,887 L 626 887 L 743 887' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_iupacGPT' d='M 543 997 C 618,997 568,909 643,909 L 643 909 L 743 909' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_LLaMa2' d='M 560 997 C 635,997 585,931 660,931 L 660 931 L 743 931' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_ChemSpaceAL' d='M 576 997 C 651,997 601,953 676,953 L 676 953 L 743 953' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_CONSMI' d='M 610 997 C 685,997 635,975 710,975 L 710 975 L 743 975' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT-2' d='M 118 997 C 193,997 143,1261 218,1261 L 218 1261 L 743 1261' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPTChem' d='M 618 997 C 693,997 643,1019 718,1019 L 718 1019 L 743 1019' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_AutoMolDesigner' d='M 610 997 C 685,997 635,1041 710,1041 L 710 1041 L 743 1041' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_BioMedGPT-LM' d='M 568 997 C 643,997 593,1063 668,1063 L 668 1063 L 743 1063' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_SGPT-RL' d='M 551 997 C 626,997 576,1085 651,1085 L 651 1085 L 743 1085' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Pythia' d='M 535 997 C 610,997 560,1107 635,1107 L 635 1107 L 743 1107' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_LLaMa' d='M 518 997 C 593,997 543,1129 618,1129 L 618 1129 L 743 1129' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Galactica' d='M 493 997 C 568,997 518,1151 593,1151 L 593 1151 L 743 1151' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_PaLM' d='M 435 997 C 510,997 460,1173 535,1173 L 535 1173 L 743 1173' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_MolGPT' d='M 385 997 C 460,997 410,1195 485,1195 L 485 1195 L 743 1195' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Codex' d='M 360 997 C 435,997 385,1217 460,1217 L 460 1217 L 743 1217' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_GPT' d='M 51 711 C 95.25,711 65.75,997 110,997 L 110 997 L 743 997' stroke='#ecba5b' style='stroke-width:4;' />
-  <path id='__line_Transformers' d='M 51 711 L 743 711' stroke='#bf1238' style='stroke-width:4;' />
+  <path id='__line_ChemBERTa' d='M 285 95 C 360,95 310,139 385,139 L 385 139 L 743 139' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_CatBERTa' d='M 593 95 C 668,95 618,117 693,117 L 693 117 L 743 117' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_RoBERTa' d='M 185 337 C 241.25,337 203.75,95 260,95 L 260 95 L 743 95' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_SMILES-BERT' d='M 185 337 C 253.25,337 207.75,161 276,161 L 276 161 L 743 161' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BioBERT' d='M 218 337 C 293,337 243,183 318,183 L 318 183 L 743 183' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MolBERT' d='M 293 337 C 368,337 318,205 393,205 L 393 205 L 743 205' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ChemBERT' d='M 351 337 C 426,337 376,227 451,227 L 451 227 L 743 227' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MTL-BERT' d='M 385 337 C 460,337 410,249 485,249 L 485 249 L 743 249' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MatBERT' d='M 435 337 C 510,337 460,271 535,271 L 535 271 L 743 271' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ScholarBERT' d='M 443 337 C 518,337 468,293 543,293 L 543 293 L 743 293' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MaterialsBERT' d='M 535 337 C 610,337 560,315 635,315 L 635 315 L 743 315' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BlueBERT' d='M 185 337 C 234.5,337 201.5,601 251,601 L 251 601 L 743 601' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_SolvBERT' d='M 485 337 C 560,337 510,359 585,359 L 585 359 L 743 359' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MolFormer' d='M 443 337 C 518,337 468,381 543,381 L 543 381 L 743 381' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BioTranslator' d='M 518 403 C 593,403 543,425 618,425 L 618 425 L 743 425' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_PubMedBERT' d='M 385 337 C 460,337 410,403 485,403 L 485 403 L 743 403' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Mol-BERT' d='M 376 337 C 451,337 401,447 476,447 L 476 447 L 743 447' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Schwaller2020' d='M 301 337 C 376,337 326,469 401,469 L 401 469 L 743 469' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_ClinicalBERT' d='M 235 337 C 310,337 260,491 335,491 L 335 491 L 743 491' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_MatSciBERT' d='M 443 513 C 518,513 468,535 543,535 L 543 535 L 743 535' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_SciBERT' d='M 185 337 C 253.25,337 207.75,513 276,513 L 276 513 L 743 513' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Bio-Megatron' d='M 285 557 C 360,557 310,579 385,579 L 385 579 L 743 579' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Megatron-LM' d='M 185 337 C 253.25,337 207.75,557 276,557 L 276 557 L 743 557' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_BERT' d='M 85 777 C 160,777 110,337 185,337 L 185 337 L 743 337' stroke='#0169c9' style='stroke-width:4;' />
+  <path id='__line_Mol-T5' d='M 435 667 C 510,667 460,623 535,623 L 535 623 L 743 623' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_TransAntivirus' d='M 551 667 C 626,667 576,645 651,645 L 651 645 L 743 645' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_Flan-T5' d='M 410 667 C 485,667 435,755 510,755 L 510 755 L 743 755' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_BioMol-T5+' d='M 701 689 C 713.75,689 705.25,711 718,711 L 718 711 L 743 711' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_BioMol-T5' d='M 601 667 C 676,667 626,689 701,689 L 701 689 L 743 689' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_Text+Chem__T5' d='M 543 667 C 618,667 568,733 643,733 L 643 733 L 743 733' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_T5' d='M 185 777 C 260,777 210,667 285,667 L 285 667 L 743 667' stroke='#c7bff0' style='stroke-width:4;' />
+  <path id='__line_BioGPT' d='M 476 1371 C 551,1371 501,1349 576,1349 L 576 1349 L 743 1349' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_ChemFormer' d='M 360 799 C 435,799 385,821 460,821 L 460 821 L 743 821' stroke='#bfd0d6' style='stroke-width:4;' />
+  <path id='__line_BART' d='M 185 777 C 260,777 210,799 285,799 L 285 799 L 743 799' stroke='#bfd0d6' style='stroke-width:4;' />
+  <path id='__line_MolGPT' d='M 385 1151 C 460,1151 410,843 485,843 L 485 843 L 743 843' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Galactica' d='M 493 1151 C 568,1151 518,865 593,865 L 593 865 L 743 865' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_PMC-LLaMa' d='M 618 931 C 630.75,931 622.25,887 635,887 L 635 887 L 743 887' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Darwin' d='M 618 931 C 655.5,931 630.5,909 668,909 L 668 909 L 743 909' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_ChatDoctor' d='M 626 1019 C 626,1019 626,1041 626,1041 L 626 1041 L 743 1041' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_EpylepsiLLM' d='M 618 931 C 687,931 641,953 710,953 L 710 953 L 743 953' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_BioMedGPT-LM' d='M 660 975 C 666,975 662,997 668,997 L 668 997 L 743 997' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_LLaMa2' d='M 618 931 C 649.5,931 628.5,975 660,975 L 660 975 L 743 975' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Alpaca' d='M 618 931 C 624,931 620,1019 626,1019 L 626 1019 L 743 1019' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_LLaMa' d='M 518 1151 C 593,1151 543,931 618,931 L 618 931 L 743 931' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_iupacGPT' d='M 543 1151 C 618,1151 568,1063 643,1063 L 643 1063 L 743 1063' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_ChemSpaceAL' d='M 576 1151 C 651,1151 601,1085 676,1085 L 676 1085 L 743 1085' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_AutoMolDesigner' d='M 610 1151 C 685,1151 635,1107 710,1107 L 710 1107 L 743 1107' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPTChem' d='M 618 1151 C 693,1151 643,1129 718,1129 L 718 1129 L 743 1129' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Adilov2021' d='M 376 1371 C 451,1371 401,1393 476,1393 L 476 1393 L 743 1393' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_BioMedLM' d='M 626 1151 C 701,1151 651,1173 726,1173 L 726 1173 L 743 1173' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_CONSMI' d='M 610 1151 C 685,1151 635,1195 710,1195 L 710 1195 L 743 1195' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_BioMistral' d='M 685 1217 C 709.75,1217 693.25,1239 718,1239 L 718 1239 L 743 1239' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Mistral' d='M 585 1151 C 660,1151 610,1217 685,1217 L 685 1217 L 743 1217' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_SGPT-RL' d='M 551 1151 C 626,1151 576,1261 651,1261 L 651 1261 L 743 1261' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_cMolGPT' d='M 535 1151 C 610,1151 560,1283 635,1283 L 635 1283 L 743 1283' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_PeTrans' d='M 510 1151 C 585,1151 535,1305 610,1305 L 610 1305 L 743 1305' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Chinchila' d='M 426 1151 C 501,1151 451,1327 526,1327 L 526 1327 L 743 1327' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPT-2' d='M 118 1151 C 193,1151 143,1371 218,1371 L 218 1371 L 743 1371' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_GPT' d='M 51 777 C 95.25,777 65.75,1151 110,1151 L 110 1151 L 743 1151' stroke='#ecba5b' style='stroke-width:4;' />
+  <path id='__line_Transformers' d='M 51 777 L 743 777' stroke='#bf1238' style='stroke-width:4;' />
 </g>
 
 <g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
  style='stroke:none;' >
   <circle id='__dot_ChemBERTa-2' cx='576' cy='73' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ChemBERTa' cx='385' cy='117' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ChemBERTa' cx='385' cy='139' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_CatBERTa' cx='693' cy='117' r='7' fill='#0169c9' stroke='none' />
   <circle id='__dot_RoBERTa' cx='260' cy='95' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_SMILES-BERT' cx='276' cy='139' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_BioBERT' cx='318' cy='161' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MolBERT' cx='393' cy='183' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ChemBERT' cx='451' cy='205' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MTL-BERT' cx='485' cy='227' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MatBERT' cx='535' cy='249' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ScholarBERT' cx='543' cy='271' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MaterialsBERT' cx='635' cy='293' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_BlueBERT' cx='251' cy='557' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_SolvBERT' cx='585' cy='337' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MolFormer' cx='543' cy='359' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_PubMedBERT' cx='485' cy='381' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Mol-BERT' cx='476' cy='403' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Schwaller2020' cx='401' cy='425' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_ClinicalBERT' cx='335' cy='447' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_MatSciBERT' cx='543' cy='491' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_SciBERT' cx='276' cy='469' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Bio-Megatron' cx='385' cy='535' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Megatron-LM' cx='276' cy='513' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_BERT' cx='185' cy='315' r='7' fill='#0169c9' stroke='none' />
-  <circle id='__dot_Mol-T5' cx='535' cy='579' r='7' fill='#c7bff0' stroke='none' />
-  <circle id='__dot_TransAntivirus' cx='651' cy='601' r='7' fill='#c7bff0' stroke='none' />
-  <circle id='__dot_Flan-T5' cx='510' cy='689' r='7' fill='#c7bff0' stroke='none' />
-  <circle id='__dot_BioMol-T5+' cx='718' cy='645' r='7' fill='#c7bff0' stroke='none' />
-  <circle id='__dot_Christofidellis2023' cx='643' cy='667' r='7' fill='#c7bff0' stroke='none' />
-  <circle id='__dot_T5' cx='285' cy='623' r='7' fill='#c7bff0' stroke='none' />
-  <circle id='__dot_Bard' cx='326' cy='1239' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_BART' cx='285' cy='733' r='7' fill='#bfd0d6' stroke='none' />
-  <circle id='__dot_XLNet' cx='251' cy='755' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_GPT-3' cx='351' cy='777' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_Adilov2021' cx='476' cy='799' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_Chinchila' cx='526' cy='821' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_BioGPT' cx='576' cy='843' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_PeTrans' cx='610' cy='865' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_GPT-4' cx='626' cy='887' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_iupacGPT' cx='643' cy='909' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_LLaMa2' cx='660' cy='931' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_ChemSpaceAL' cx='676' cy='953' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_CONSMI' cx='710' cy='975' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_GPT-2' cx='218' cy='1261' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_GPTChem' cx='718' cy='1019' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_AutoMolDesigner' cx='710' cy='1041' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_BioMedGPT-LM' cx='668' cy='1063' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_SGPT-RL' cx='651' cy='1085' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_Pythia' cx='635' cy='1107' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_LLaMa' cx='618' cy='1129' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_Galactica' cx='593' cy='1151' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_PaLM' cx='535' cy='1173' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_MolGPT' cx='485' cy='1195' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_Codex' cx='460' cy='1217' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_GPT' cx='110' cy='997' r='7' fill='#ecba5b' stroke='none' />
-  <circle id='__dot_Transformers' cx='51' cy='711' r='7' fill='#bf1238' stroke='none' />
+  <circle id='__dot_SMILES-BERT' cx='276' cy='161' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_BioBERT' cx='318' cy='183' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MolBERT' cx='393' cy='205' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ChemBERT' cx='451' cy='227' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MTL-BERT' cx='485' cy='249' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MatBERT' cx='535' cy='271' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ScholarBERT' cx='543' cy='293' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MaterialsBERT' cx='635' cy='315' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_BlueBERT' cx='251' cy='601' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_SolvBERT' cx='585' cy='359' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MolFormer' cx='543' cy='381' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_BioTranslator' cx='618' cy='425' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_PubMedBERT' cx='485' cy='403' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Mol-BERT' cx='476' cy='447' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Schwaller2020' cx='401' cy='469' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_ClinicalBERT' cx='335' cy='491' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_MatSciBERT' cx='543' cy='535' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_SciBERT' cx='276' cy='513' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Bio-Megatron' cx='385' cy='579' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Megatron-LM' cx='276' cy='557' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_BERT' cx='185' cy='337' r='7' fill='#0169c9' stroke='none' />
+  <circle id='__dot_Mol-T5' cx='535' cy='623' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_TransAntivirus' cx='651' cy='645' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_Flan-T5' cx='510' cy='755' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_BioMol-T5+' cx='718' cy='711' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_BioMol-T5' cx='701' cy='689' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_Text+Chem__T5' cx='643' cy='733' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_T5' cx='285' cy='667' r='7' fill='#c7bff0' stroke='none' />
+  <circle id='__dot_BioGPT' cx='576' cy='1349' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_ChemFormer' cx='460' cy='821' r='7' fill='#bfd0d6' stroke='none' />
+  <circle id='__dot_BART' cx='285' cy='799' r='7' fill='#bfd0d6' stroke='none' />
+  <circle id='__dot_MolGPT' cx='485' cy='843' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Galactica' cx='593' cy='865' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_PMC-LLaMa' cx='635' cy='887' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Darwin' cx='668' cy='909' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_ChatDoctor' cx='626' cy='1041' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_EpylepsiLLM' cx='710' cy='953' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_BioMedGPT-LM' cx='668' cy='997' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_LLaMa2' cx='660' cy='975' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Alpaca' cx='626' cy='1019' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_LLaMa' cx='618' cy='931' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_iupacGPT' cx='643' cy='1063' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_ChemSpaceAL' cx='676' cy='1085' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_AutoMolDesigner' cx='710' cy='1107' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_GPTChem' cx='718' cy='1129' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Adilov2021' cx='476' cy='1393' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_BioMedLM' cx='726' cy='1173' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_CONSMI' cx='710' cy='1195' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_BioMistral' cx='718' cy='1239' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Mistral' cx='685' cy='1217' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_SGPT-RL' cx='651' cy='1261' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_cMolGPT' cx='635' cy='1283' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_PeTrans' cx='610' cy='1305' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Chinchila' cx='526' cy='1327' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_GPT-2' cx='218' cy='1371' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_GPT' cx='110' cy='1151' r='7' fill='#ecba5b' stroke='none' />
+  <circle id='__dot_Transformers' cx='51' cy='777' r='7' fill='#bf1238' stroke='none' />
 </g>
 
 <g inkscape:label='Icons' inkscape:groupmode='layer' id='layer_icons'>
@@ -293,139 +305,151 @@ style='opacity:0.6;' >
  style='font-size:16px;stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
   <rect x='581' y='55' width='112' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
   <a xlink:href='https://arxiv.org/abs/2209.01712'><text x='583' y='68'  >ChemBERTa-2</text></a>
-  <rect x='390' y='99' width='96' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2010.09885'><text x='392' y='112'  >ChemBERTa</text></a>
+  <rect x='390' y='121' width='96' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2010.09885'><text x='392' y='134'  >ChemBERTa</text></a>
+  <rect x='698' y='99' width='78' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://pubs.acs.org/doi/10.1021/acscatal.3c04956'><text x='700' y='112'  >CatBERTa</text></a>
   <rect x='265' y='77' width='74' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
   <a xlink:href='https://arxiv.org/abs/1907.11692'><text x='267' y='90'  >RoBERTa</text></a>
-  <rect x='281' y='121' width='109' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://dl.acm.org/doi/10.1145/3307339.3342186'><text x='283' y='134'  >SMILES-BERT</text></a>
-  <rect x='323' y='143' width='68' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://academic.oup.com/bioinformatics/article/36/4/1234/5566506'><text x='325' y='156'  >BioBERT</text></a>
-  <rect x='398' y='165' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='400' y='178'  >MolBERT</text></a>
-  <rect x='456' y='187' width='87' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284'><text x='458' y='200'  >ChemBERT</text></a>
-  <rect x='490' y='209' width='81' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2110.03895'><text x='492' y='222'  >MTL-BERT</text></a>
-  <rect x='540' y='231' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='542' y='244'  >MatBERT</text></a>
-  <rect x='548' y='253' width='100' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2205.11342'><text x='550' y='266'  >ScholarBERT</text></a>
-  <rect x='640' y='275' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.nature.com/articles/s41524-023-01003-w'><text x='642' y='288'  >MaterialsBERT</text></a>
-  <rect x='256' y='539' width='77' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1906.05474'><text x='258' y='552'  >BlueBERT</text></a>
-  <rect x='590' y='319' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e'><text x='592' y='332'  >SolvBERT</text></a>
-  <rect x='548' y='341' width='80' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.researchsquare.com/article/rs-1570270/v1'><text x='550' y='354'  >MolFormer</text></a>
-  <rect x='490' y='363' width='105' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://dl.acm.org/doi/10.1145/3458754'><text x='492' y='376'  >PubMedBERT</text></a>
-  <rect x='481' y='385' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.hindawi.com/journals/wcmc/2021/7181815/'><text x='483' y='398'  >Mol-BERT</text></a>
-  <rect x='406' y='407' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2012.06051'><text x='408' y='420'  >Schwaller2020</text></a>
-  <rect x='340' y='429' width='98' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1904.05342'><text x='342' y='442'  >ClinicalBERT</text></a>
-  <rect x='548' y='473' width='93' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.nature.com/articles/s41524-022-00784-w'><text x='550' y='486'  >MatSciBERT</text></a>
-  <rect x='281' y='451' width='66' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1903.10676'><text x='283' y='464'  >SciBERT</text></a>
-  <rect x='390' y='517' width='101' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2010.06060'><text x='392' y='530'  >Bio-Megatron</text></a>
-  <rect x='281' y='495' width='99' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1909.08053'><text x='283' y='508'  >Megatron-LM</text></a>
-  <rect x='190' y='297' width='43' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1810.04805'><text x='192' y='310'  >BERT</text></a>
-  <rect x='540' y='561' width='51' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2204.11817'><text x='542' y='574'  >Mol-T5</text></a>
-  <rect x='656' y='583' width='106' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.3c00536'><text x='658' y='596'  >TransAntivirus</text></a>
-  <rect x='515' y='671' width='57' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='url'><text x='517' y='684'  >Flan-T5</text></a>
-  <rect x='723' y='627' width='85' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2402.17810'><text x='725' y='640'  >BioMol-T5+</text></a>
-  <rect x='648' y='649' width='138' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2301.12586'><text x='650' y='662'  >Christofidellis2023</text></a>
-  <rect x='290' y='605' width='18' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1910.10683'><text x='292' y='618'  >T5</text></a>
-  <rect x='331' y='1221' width='35' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2003.01207'><text x='333' y='1234'  >Bard</text></a>
-  <rect x='290' y='715' width='43' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1910.13461'><text x='292' y='728'  >BART</text></a>
-  <rect x='256' y='737' width='46' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1906.08237'><text x='258' y='750'  >XLNet</text></a>
-  <rect x='356' y='759' width='47' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2005.14165'><text x='358' y='772'  >GPT-3</text></a>
-  <rect x='481' y='781' width='82' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/6142f60742198e8c31782e9e'><text x='483' y='794'  >Adilov2021</text></a>
-  <rect x='531' y='803' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2203.15556'><text x='533' y='816'  >Chinchila</text></a>
-  <rect x='581' y='825' width='57' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://academic.oup.com/bib/article/23/6/bbac409/6713511?login=true'><text x='583' y='838'  >BioGPT</text></a>
-  <rect x='615' y='847' width='62' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.mdpi.com/1422-0067/24/2/1146'><text x='617' y='860'  >PeTrans</text></a>
-  <rect x='631' y='869' width='47' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href=''><text x='633' y='882'  >GPT-4</text></a>
-  <rect x='648' y='891' width='72' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae'><text x='650' y='904'  >iupacGPT</text></a>
-  <rect x='665' y='913' width='60' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2307.09288'><text x='667' y='926'  >LLaMa2</text></a>
-  <rect x='681' y='935' width='112' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2309.05853'><text x='683' y='948'  >ChemSpaceAL</text></a>
-  <rect x='715' y='957' width='64' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.mdpi.com/1420-3049/29/2/495'><text x='717' y='970'  >CONSMI</text></a>
-  <rect x='223' y='1243' width='47' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf'><text x='225' y='1256'  >GPT-2</text></a>
-  <rect x='723' y='1001' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/652e50b98bab5d2055852dde'><text x='725' y='1014'  >GPTChem</text></a>
-  <rect x='715' y='1023' width='128' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.3c01562'><text x='717' y='1036'  >AutoMolDesigner</text></a>
-  <rect x='673' y='1045' width='117' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2308.09442'><text x='675' y='1058'  >BioMedGPT-LM</text></a>
-  <rect x='656' y='1067' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://f1000research.com/articles/12-757/v2'><text x='658' y='1080'  >SGPT-RL</text></a>
-  <rect x='640' y='1089' width='46' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2304.01373'><text x='642' y='1102'  >Pythia</text></a>
-  <rect x='623' y='1111' width='51' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2302.13971'><text x='625' y='1124'  >LLaMa</text></a>
-  <rect x='598' y='1133' width='69' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2211.09085'><text x='600' y='1146'  >Galactica</text></a>
-  <rect x='540' y='1155' width='43' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2204.02311'><text x='542' y='1168'  >PaLM</text></a>
-  <rect x='490' y='1177' width='59' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00600'><text x='492' y='1190'  >MolGPT</text></a>
-  <rect x='465' y='1199' width='48' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/2107.03374'><text x='467' y='1212'  >Codex</text></a>
-  <rect x='115' y='979' width='32' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://www.mikecaptain.com/resources/pdf/GPT-1.pdf'><text x='117' y='992'  >GPT</text></a>
-  <rect x='56' y='693' width='98' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
-  <a xlink:href='https://arxiv.org/abs/1706.03762'><text x='58' y='706'  >Transformers</text></a>
+  <rect x='281' y='143' width='109' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://dl.acm.org/doi/10.1145/3307339.3342186'><text x='283' y='156'  >SMILES-BERT</text></a>
+  <rect x='323' y='165' width='68' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://academic.oup.com/bioinformatics/article/36/4/1234/5566506'><text x='325' y='178'  >BioBERT</text></a>
+  <rect x='398' y='187' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='400' y='200'  >MolBERT</text></a>
+  <rect x='456' y='209' width='87' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.1c00284'><text x='458' y='222'  >ChemBERT</text></a>
+  <rect x='490' y='231' width='81' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2110.03895'><text x='492' y='244'  >MTL-BERT</text></a>
+  <rect x='540' y='253' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2011.13230'><text x='542' y='266'  >MatBERT</text></a>
+  <rect x='548' y='275' width='100' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2205.11342'><text x='550' y='288'  >ScholarBERT</text></a>
+  <rect x='640' y='297' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.nature.com/articles/s41524-023-01003-w'><text x='642' y='310'  >MaterialsBERT</text></a>
+  <rect x='256' y='583' width='77' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1906.05474'><text x='258' y='596'  >BlueBERT</text></a>
+  <rect x='590' y='341' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e'><text x='592' y='354'  >SolvBERT</text></a>
+  <rect x='548' y='363' width='80' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.researchsquare.com/article/rs-1570270/v1'><text x='550' y='376'  >MolFormer</text></a>
+  <rect x='623' y='407' width='100' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://dl.acm.org/doi/10.1145/3458754'><text x='625' y='420'  >BioTranslator</text></a>
+  <rect x='490' y='385' width='105' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://dl.acm.org/doi/10.1145/3458754'><text x='492' y='398'  >PubMedBERT</text></a>
+  <rect x='481' y='429' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.hindawi.com/journals/wcmc/2021/7181815/'><text x='483' y='442'  >Mol-BERT</text></a>
+  <rect x='406' y='451' width='111' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2012.06051'><text x='408' y='464'  >Schwaller2020</text></a>
+  <rect x='340' y='473' width='98' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1904.05342'><text x='342' y='486'  >ClinicalBERT</text></a>
+  <rect x='548' y='517' width='93' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.nature.com/articles/s41524-022-00784-w'><text x='550' y='530'  >MatSciBERT</text></a>
+  <rect x='281' y='495' width='66' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1903.10676'><text x='283' y='508'  >SciBERT</text></a>
+  <rect x='390' y='561' width='101' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2010.06060'><text x='392' y='574'  >Bio-Megatron</text></a>
+  <rect x='281' y='539' width='99' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1909.08053'><text x='283' y='552'  >Megatron-LM</text></a>
+  <rect x='190' y='319' width='43' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1810.04805'><text x='192' y='332'  >BERT</text></a>
+  <rect x='540' y='605' width='51' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2204.11817'><text x='542' y='618'  >Mol-T5</text></a>
+  <rect x='656' y='627' width='106' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.3c00536'><text x='658' y='640'  >TransAntivirus</text></a>
+  <rect x='515' y='737' width='57' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='url'><text x='517' y='750'  >Flan-T5</text></a>
+  <rect x='723' y='693' width='85' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2402.17810'><text x='725' y='706'  >BioMol-T5+</text></a>
+  <rect x='706' y='671' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://aclanthology.org/2023.emnlp-main.70/'><text x='708' y='684'  >BioMol-T5</text></a>
+  <rect x='648' y='715' width='109' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2301.12586'><text x='650' y='728'  >Text+Chem T5</text></a>
+  <rect x='290' y='649' width='18' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1910.10683'><text x='292' y='662'  >T5</text></a>
+  <rect x='581' y='1331' width='57' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://academic.oup.com/bib/article/23/6/bbac409/6713511?login=true'><text x='583' y='1344'  >BioGPT</text></a>
+  <rect x='465' y='803' width='97' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/60ee8a3eb95bdd06d062074b'><text x='467' y='816'  >ChemFormer</text></a>
+  <rect x='290' y='781' width='43' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1910.13461'><text x='292' y='794'  >BART</text></a>
+  <rect x='490' y='825' width='59' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00600'><text x='492' y='838'  >MolGPT</text></a>
+  <rect x='598' y='847' width='69' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2211.09085'><text x='600' y='860'  >Galactica</text></a>
+  <rect x='640' y='869' width='93' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2304.14454'><text x='642' y='882'  >PMC-LLaMa</text></a>
+  <rect x='673' y='891' width='52' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2308.13565'><text x='675' y='904'  >Darwin</text></a>
+  <rect x='631' y='1023' width='84' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2303.14070'><text x='633' y='1036'  >ChatDoctor</text></a>
+  <rect x='715' y='935' width='96' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2401.05908'><text x='717' y='948'  >EpylepsiLLM</text></a>
+  <rect x='673' y='979' width='117' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2308.09442'><text x='675' y='992'  >BioMedGPT-LM</text></a>
+  <rect x='665' y='957' width='60' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2307.09288'><text x='667' y='970'  >LLaMa2</text></a>
+  <rect x='631' y='1001' width='51' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://crfm.stanford.edu/2023/03/13/alpaca.html'><text x='633' y='1014'  >Alpaca</text></a>
+  <rect x='623' y='913' width='51' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2302.13971'><text x='625' y='926'  >LLaMa</text></a>
+  <rect x='648' y='1045' width='72' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae'><text x='650' y='1058'  >iupacGPT</text></a>
+  <rect x='681' y='1067' width='112' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2309.05853'><text x='683' y='1080'  >ChemSpaceAL</text></a>
+  <rect x='715' y='1089' width='128' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://pubs.acs.org/doi/10.1021/acs.jcim.3c01562'><text x='717' y='1102'  >AutoMolDesigner</text></a>
+  <rect x='723' y='1111' width='76' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/652e50b98bab5d2055852dde'><text x='725' y='1124'  >GPTChem</text></a>
+  <rect x='481' y='1375' width='82' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://chemrxiv.org/engage/chemrxiv/article-details/6142f60742198e8c31782e9e'><text x='483' y='1388'  >Adilov2021</text></a>
+  <rect x='731' y='1155' width='79' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2403.18421'><text x='733' y='1168'  >BioMedLM</text></a>
+  <rect x='715' y='1177' width='64' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.mdpi.com/1420-3049/29/2/495'><text x='717' y='1190'  >CONSMI</text></a>
+  <rect x='723' y='1221' width='73' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2402.10373'><text x='725' y='1234'  >BioMistral</text></a>
+  <rect x='690' y='1199' width='49' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2310.06825'><text x='692' y='1212'  >Mistral</text></a>
+  <rect x='656' y='1243' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://f1000research.com/articles/12-757/v2'><text x='658' y='1256'  >SGPT-RL</text></a>
+  <rect x='640' y='1265' width='67' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.mdpi.com/1420-3049/28/11/4430'><text x='642' y='1278'  >cMolGPT</text></a>
+  <rect x='615' y='1287' width='62' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.mdpi.com/1422-0067/24/2/1146'><text x='617' y='1300'  >PeTrans</text></a>
+  <rect x='531' y='1309' width='70' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/2203.15556'><text x='533' y='1322'  >Chinchila</text></a>
+  <rect x='223' y='1353' width='47' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf'><text x='225' y='1366'  >GPT-2</text></a>
+  <rect x='115' y='1133' width='32' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://www.mikecaptain.com/resources/pdf/GPT-1.pdf'><text x='117' y='1146'  >GPT</text></a>
+  <rect x='56' y='759' width='98' height='15' fill='#fff' opacity='1'  rx='5' ry='5' />
+  <a xlink:href='https://arxiv.org/abs/1706.03762'><text x='58' y='772'  >Transformers</text></a>
 </g>
 
 <g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' 
  style='stroke:none;fill:url(#__yearline);' >
   <rect x='0' y='0' rx='5' ry='5' width='920' height='40' />
-  <rect x='0' y='1294' rx='5' ry='5' width='920' height='40' />
+  <rect x='0' y='1426' rx='5' ry='5' width='920' height='40' />
   <g style='font-size:22px;stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;text-anchor:middle;' >
     <text x='60' y='28'><tspan>2017</tspan></text>
-    <text x='60' y='1322'><tspan>2017</tspan></text>
+    <text x='60' y='1454'><tspan>2017</tspan></text>
     <text x='160' y='28'><tspan>2018</tspan></text>
-    <text x='160' y='1322'><tspan>2018</tspan></text>
+    <text x='160' y='1454'><tspan>2018</tspan></text>
     <text x='260' y='28'><tspan>2019</tspan></text>
-    <text x='260' y='1322'><tspan>2019</tspan></text>
+    <text x='260' y='1454'><tspan>2019</tspan></text>
     <text x='360' y='28'><tspan>2020</tspan></text>
-    <text x='360' y='1322'><tspan>2020</tspan></text>
+    <text x='360' y='1454'><tspan>2020</tspan></text>
     <text x='460' y='28'><tspan>2021</tspan></text>
-    <text x='460' y='1322'><tspan>2021</tspan></text>
+    <text x='460' y='1454'><tspan>2021</tspan></text>
     <text x='560' y='28'><tspan>2022</tspan></text>
-    <text x='560' y='1322'><tspan>2022</tspan></text>
+    <text x='560' y='1454'><tspan>2022</tspan></text>
     <text x='660' y='28'><tspan>2023</tspan></text>
-    <text x='660' y='1322'><tspan>2023</tspan></text>
+    <text x='660' y='1454'><tspan>2023</tspan></text>
     <text x='760' y='28'><tspan>2024</tspan></text>
-    <text x='760' y='1322'><tspan>2024</tspan></text>
+    <text x='760' y='1454'><tspan>2024</tspan></text>
     <text x='860' y='28'><tspan>2025</tspan></text>
-    <text x='860' y='1322'><tspan>2025</tspan></text>
+    <text x='860' y='1454'><tspan>2025</tspan></text>
   </g>
 </g>
 
