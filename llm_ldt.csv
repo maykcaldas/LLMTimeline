@@ -131,18 +131,19 @@
 "N","SGPT-RL","#ecba5b","GPT","2023.6","",,"https://f1000research.com/articles/12-757/v2",,,,,,,,,
 # End of GPT
 
-"N","T5","#c7bff0","Transformers","2019.10","",,"https://arxiv.org/abs/1910.10683",,,,,,,,,
 # T5 variations
-"N","Flan-T5","#c7bff0","T5","2022","",,"url",,,,,,,,,
+"N","T5","#c7bff0","Transformers","2019.10","",,"https://arxiv.org/abs/1910.10683",,,,,,,,,
+"N","T5Chem","#c7bff0","T5","2022.03","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.1c01467",,,,,,,,,
+"#N","Flan-T5","#c7bff0","T5","2022","",,"url",,,,,,,,,
 "N","Mol-T5","#c7bff0","T5","2022.4","",,"https://arxiv.org/abs/2204.11817",,,,,,,,,
 "N","BioMol-T5","#c7bff0","T5","2023.12","",,"https://aclanthology.org/2023.emnlp-main.70/",,,,,,,,,
 "N","BioMol-T5+","#c7bff0","BioMol-T5","2024.2","",,"https://arxiv.org/abs/2402.17810",,,,,,,,,
+"N","ReactionT5","#c7bff0","T5","2023.6","",,"https://arxiv.org/abs/2311.06708",,,,,,,,,
 "N","TransAntivirus","#c7bff0","T5","2023.6","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.3c00536",,,,,,,,,
 "N","Text+Chem T5","#c7bff0","T5","2023.5","",,"https://arxiv.org/abs/2301.12586",,,,,,,,,
 # End of T5
 
 "#",,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,,,
 "#","Leaving 'To When' empty will result in using 'From When' as this value",,,,,,,,,,,,,,,
 "#","From When","From","To When","To","Thickness","Color",,,,,,,,,,
@@ -150,9 +151,10 @@
 ,,,,,,,,,,,,,,,,
 "#","Domains",,,,,,,,,,,,,,,
 "#","Distribution","Color","Intensity",,,,,,,,,,,,,
-"#D","Transformers","#bf1238","15",,,,,,,,,,,,,
-"#D","Transformers","#bf1238","15",,,,,,,,,,,,,
-"#D","Transformers","#bf1238","15",,,,,,,,,,,,,
+"#D","T5","#c7bff0","15",,,,,,,,,,,,,
+"#D","BART","#bfd0d6","15",,,,,,,,,,,,,
+"#D","BERT","#0169c9","15",,,,,,,,,,,,,
+"#D","GPT","#ecba5b","15",,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Images",,,,,,,,,,,,,,,
 "#","File Path","x Position","y Position",,,,,,,,,,,,,
