@@ -28,13 +28,22 @@
 "#","Name","Color","Parent","Start","Stop","Icon","Description","[Namechange","When","Description","[Namechange","When","Description",". . . ]]",,
 "N","Transformers","#bf1238","","2017.6",,"","https://arxiv.org/abs/1706.03762",,,,,,,,,
 
+"N","Galactica","#993366","Transformers","2022.11","",,"https://arxiv.org/abs/2211.09085",,,,,,,,,
+"N","Molecular-Transformers","#bdbddb","Transformers","2018.11","",,"https://pubs.acs.org/doi/10.1021/acscentsci.9b00576",,,,,,,,,
+
 # BART variations
 "N","BART","#bfd0d6","Transformers","2019.10","",,"https://arxiv.org/abs/1910.13461",,,,,,,,,
-"N","ChemFormer","#bfd0d6","BART","2021.7","",,"https://chemrxiv.org/engage/chemrxiv/article-details/60ee8a3eb95bdd06d062074b",,,,,,,,,
+"N","MOLGEN","#bfd0d6","BART","2024.03","",,"https://arxiv.org/abs/2301.11259v5",,,,,,,,,
+"N","ChemFormer","#bfd0d6","BART","2022.01","",,"https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb",,,,,,,,,
 # End of BART
 
 # BERT variations
 "N","BERT","#0169c9","Transformers","2018.10","",,"https://arxiv.org/abs/1810.04805",,,,,,,,,
+
+## SciBERT
+"N","SciBERT","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1903.10676",,,,,,,,,
+"N","MatSciBERT","#0169c9","SciBERT","2022.5","",,"https://www.nature.com/articles/s41524-022-00784-w",,,,,,,,,
+## End Of SciBERT
 
 ## Megatron variations
 "N","Megatron-LM","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1909.08053",,,,,,,,,
@@ -46,11 +55,11 @@
 "N","CatBERTa","#0169c9","RoBERTa","2023.11","",,"https://pubs.acs.org/doi/10.1021/acscatal.3c04956",,,,,,,,,
 "N","ChemBERTa","#0169c9","RoBERTa","2020.10","",,"https://arxiv.org/abs/2010.09885",,,,,,,,,
 "N","ChemBERTa-2","#0169c9","RoBERTa","2022.9","",,"https://arxiv.org/abs/2209.01712",,,,,,,,,
+"N","SELFormer","#0169c9","RoBERTa","2023.5","",,"https://arxiv.org/abs/2304.04662",,,,,,,,,
 ## End of RoBERTa
 
 "#N","DistilBERT","#0169c9","BERT","2019.10","",,"https://arxiv.org/abs/1910.01108",,,,,,,,,
 "#N","ALBERT","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1909.11942",,,,,,,,,
-"#N","XLNet","#0169c9","BERT","2019.6","",,"https://arxiv.org/abs/1906.08237",,,,,,,,,
 "#N","ERNIE","#0169c9","BERT","2019.7","",,"https://arxiv.org/abs/1907.12412",,,,,,,,,
 "N","BioBERT","#0169c9","BERT","2020.2","",,"https://academic.oup.com/bioinformatics/article/36/4/1234/5566506",,,,,,,,,
 "N","BlueBERT","#0169c9","BERT","2019.6","",,"https://arxiv.org/abs/1906.05474",,,,,,,,,
@@ -62,24 +71,13 @@
 "N","MolBERT","#0169c9","BERT","2020.11","",,"https://arxiv.org/abs/2011.13230",,,,,,,,,
 "N","MolFormer","#0169c9","BERT","2022.5","",,"https://www.researchsquare.com/article/rs-1570270/v1",,,,,,,,,
 "N","MTL-BERT","#0169c9","BERT","2021.10","",,"https://arxiv.org/abs/2110.03895",,,,,,,,,
-
-## PubMedBERT variations
 "N","PubMedBERT","#0169c9","BERT","2021.10","",,"https://dl.acm.org/doi/10.1145/3458754",,,,,,,,,
-"N","BioTranslator","#0169c9","PubMedBERT","2023.02","",,"https://dl.acm.org/doi/10.1145/3458754",,,,,,,,,
-## End of PubMedBERT
-
 "N","ScholarBERT","#0169c9","BERT","2022.5","",,"https://arxiv.org/abs/2205.11342",,,,,,,,,
 "N","Schwaller2020","#0169c9","BERT","2020.12","",,"https://arxiv.org/abs/2012.06051",,,,,,,,,
 "N","SMILES-BERT","#0169c9","BERT","2019.9","",,"https://dl.acm.org/doi/10.1145/3307339.3342186",,,,,,,,,
-"N","SolvBERT","#0169c9","BERT","2022.10","",,"https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e",,,,,,,,,
-
-## SciBERT
-"N","SciBERT","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1903.10676",,,,,,,,,
-"N","MatSciBERT","#0169c9","SciBERT","2022.5","",,"https://www.nature.com/articles/s41524-022-00784-w",,,,,,,,,
-## End Of SciBERT
+"N","SolvBERT","#0169c9","BERT","2023.01","",,"https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e",,,,,,,,,
 
 # End of BERT
-
 
 # GPT variations
 "N","GPT","#ecba5b","Transformers","2018","",,"https://www.mikecaptain.com/resources/pdf/GPT-1.pdf",,,,,,,,,
@@ -116,6 +114,11 @@
 "#N","Pythia","#ecba5b","GPT","2023.4","",,"https://arxiv.org/abs/2304.01373",,,,,,,,,
 "#N","XLNet","#ecba5b","GPT","2019.6","",,"https://arxiv.org/abs/1906.08237",,,,,,,,,
 "#N","PaLM","#ecba5b","GPT","2022.4","",,"https://arxiv.org/abs/2204.02311",,,,,,,,,
+
+# PaLM-2 variations
+"N","PaLM-2","#ecba5b","GPT","2023.5","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
+"N","Tx-LLM","#ecba5b","PaLM-2","2024.6","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
+# End of PaLM-2
 "N","Chinchila","#ecba5b","GPT","2022.3","",,"https://arxiv.org/abs/2203.15556",,,,,,,,,
 "#N","Bard","#ecba5b","GPT","2020.3","",,"https://arxiv.org/abs/2003.01207",,,,,,,,,
 "N","Galactica","#ecba5b","GPT","2022.11","",,"https://arxiv.org/abs/2211.09085",,,,,,,,,
@@ -129,6 +132,7 @@
 "N","MolGPT","#ecba5b","GPT","2021.10","",,"https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00600",,,,,,,,,
 "N","PeTrans","#ecba5b","GPT","2023.1","",,"https://www.mdpi.com/1422-0067/24/2/1146",,,,,,,,,
 "N","SGPT-RL","#ecba5b","GPT","2023.6","",,"https://f1000research.com/articles/12-757/v2",,,,,,,,,
+
 # End of GPT
 
 # T5 variations
@@ -136,14 +140,22 @@
 "N","T5Chem","#c7bff0","T5","2022.03","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.1c01467",,,,,,,,,
 "#N","Flan-T5","#c7bff0","T5","2022","",,"url",,,,,,,,,
 "N","Mol-T5","#c7bff0","T5","2022.4","",,"https://arxiv.org/abs/2204.11817",,,,,,,,,
-"N","BioMol-T5","#c7bff0","T5","2023.12","",,"https://aclanthology.org/2023.emnlp-main.70/",,,,,,,,,
-"N","BioMol-T5+","#c7bff0","BioMol-T5","2024.2","",,"https://arxiv.org/abs/2402.17810",,,,,,,,,
+"N","Bio-T5","#c7bff0","T5","2023.12","",,"https://aclanthology.org/2023.emnlp-main.70/",,,,,,,,,
+"N","Bio-T5+","#c7bff0","Bio-T5","2024.2","",,"https://arxiv.org/abs/2402.17810",,,,,,,,,
 "N","ReactionT5","#c7bff0","T5","2023.6","",,"https://arxiv.org/abs/2311.06708",,,,,,,,,
 "N","TransAntivirus","#c7bff0","T5","2023.6","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.3c00536",,,,,,,,,
 "N","Text+Chem T5","#c7bff0","T5","2023.5","",,"https://arxiv.org/abs/2301.12586",,,,,,,,,
+"N","nach0","#c7bff0","T5","2023.11","",,"https://arxiv.org/abs/2311.12410",,,,,,,,,
 # End of T5
 
+## XLNet variations
+"N","XLNet","#339966","Transformers","2019.6","",,"https://arxiv.org/abs/1906.08237",,,,,,,,,
+
+"N","Regression Transformers","#339966","XLNet","2021.10","",,"https://www.nature.com/articles/s42256-023-00639-z",,,,,,,,,
+## End of XLNet
+
 "#",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,,,
 "#","Leaving 'To When' empty will result in using 'From When' as this value",,,,,,,,,,,,,,,
 "#","From When","From","To When","To","Thickness","Color",,,,,,,,,,
@@ -151,10 +163,9 @@
 ,,,,,,,,,,,,,,,,
 "#","Domains",,,,,,,,,,,,,,,
 "#","Distribution","Color","Intensity",,,,,,,,,,,,,
-"#D","T5","#c7bff0","15",,,,,,,,,,,,,
-"#D","BART","#bfd0d6","15",,,,,,,,,,,,,
-"#D","BERT","#0169c9","15",,,,,,,,,,,,,
-"#D","GPT","#ecba5b","15",,,,,,,,,,,,,
+"#D","Transformers","#bf1238","15",,,,,,,,,,,,,
+"#D","Transformers","#bf1238","15",,,,,,,,,,,,,
+"#D","Transformers","#bf1238","15",,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Images",,,,,,,,,,,,,,,
 "#","File Path","x Position","y Position",,,,,,,,,,,,,
