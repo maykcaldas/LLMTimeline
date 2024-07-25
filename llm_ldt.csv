@@ -30,6 +30,7 @@
 
 "N","Galactica","#993366","Transformers","2022.11","",,"https://arxiv.org/abs/2211.09085",,,,,,,,,
 "N","Molecular-Transformers","#bdbddb","Transformers","2018.11","",,"https://pubs.acs.org/doi/10.1021/acscentsci.9b00576",,,,,,,,,
+"N","Molecule Attention Transformer","#816726","Transformers","2020.02","",,"https://arxiv.org/abs/2002.08264",,,,,,,,,
 
 # BART variations
 "N","BART","#bfd0d6","Transformers","2019.10","",,"https://arxiv.org/abs/1910.13461",,,,,,,,,
@@ -40,7 +41,7 @@
 # BERT variations
 "N","BERT","#0169c9","Transformers","2018.10","",,"https://arxiv.org/abs/1810.04805",,,,,,,,,
 
-## SciBERT
+## SciBERT variations
 "N","SciBERT","#0169c9","BERT","2019.9","",,"https://arxiv.org/abs/1903.10676",,,,,,,,,
 "N","MatSciBERT","#0169c9","SciBERT","2022.5","",,"https://www.nature.com/articles/s41524-022-00784-w",,,,,,,,,
 ## End Of SciBERT
@@ -76,6 +77,7 @@
 "N","Schwaller2020","#0169c9","BERT","2020.12","",,"https://arxiv.org/abs/2012.06051",,,,,,,,,
 "N","SMILES-BERT","#0169c9","BERT","2019.9","",,"https://dl.acm.org/doi/10.1145/3307339.3342186",,,,,,,,,
 "N","SolvBERT","#0169c9","BERT","2023.01","",,"https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e",,,,,,,,,
+"N","BatteryBERT","#0169c9","BERT","2022.05","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.2c00035",,,,,,,,,
 
 # End of BERT
 
@@ -86,54 +88,69 @@
 "N","GPT-2","#ecba5b","GPT","2019.2","",,"https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",,,,,,,,,
 "N","Adilov2021","#ecba5b","GPT-2","2021.9","",,"https://chemrxiv.org/engage/chemrxiv/article-details/6142f60742198e8c31782e9e",,,,,,,,,
 "N","BioGPT","#ecba5b","GPT-2","2022.9","",,"https://academic.oup.com/bib/article/23/6/bbac409/6713511?login=true",,,,,,,,,
+
+### Gopher variations
+"N","Gopher","#ecba5b","GPT-2","2021.12","",,"https://arxiv.org/abs/2112.11446",,,,,,,,,
+"N","Chinchila","#ecba5b","Gopher","2022.3","",,"https://arxiv.org/abs/2203.15556",,,,,,,,,
+### End of Gopher
+
 ## End of GPT-2
 
-"#N","GPT-3","#ecba5b","GPT","2020.6","",,"https://arxiv.org/abs/2005.14165",,,,,,,,,
+## GPT-3 variations
+"N","GPT-3","#ecba5b","GPT","2020.5","",,"https://arxiv.org/abs/2005.14165",,,,,,,,,
+"N","GPT-neo","#ecba5b","GPT-3","2021.3","",,"https://zenodo.org/records/5297715",,,,,,,,,
+"N","GPTChem","#ecba5b","GPT-3","2024.2","",,"https://chemrxiv.org/engage/chemrxiv/article-details/652e50b98bab5d2055852dde",,,,,,,,,
+"N","SPT","#ecba5b","GPT-3","2023.10","",,"https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00058j/",,,,,,,,,
+"N","ChemGPT","#ecba5b","GPT-neo","2023.10","",,"https://www.nature.com/articles/s42256-023-00740-3",,,,,,,,,
+## End of GPT-3
+
 "#N","GPT-4","#ecba5b","GPT","2023.3","",,"",,,,,,,,,
 "#N","Codex","#ecba5b","GPT","2021.7","",,"https://arxiv.org/abs/2107.03374",,,,,,,,,
 
-## LLaMa variations
-"N","LLaMa","#ecba5b","GPT","2023.2","",,"https://arxiv.org/abs/2302.13971",,,,,,,,,
-"N","Alpaca","#ecba5b","LLaMa","2023.3","",,"https://crfm.stanford.edu/2023/03/13/alpaca.html",,,,,,,,,
-"N","EpylepsiLLM","#ecba5b","LLaMa","2024.1","",,"https://arxiv.org/abs/2401.05908",,,,,,,,,
-"N","ChatDoctor","#ecba5b","Alpaca","2023.3","",,"https://arxiv.org/abs/2303.14070",,,,,,,,,
-"N","Darwin","#ecba5b","LLaMa","2023.8","",,"https://arxiv.org/abs/2308.13565",,,,,,,,,
-"N","PMC-LLaMa","#ecba5b","LLaMa","2023.4","",,"https://arxiv.org/abs/2304.14454",,,,,,,,,
-## End of LLaMa
-
-### LLaMa2 variations
-"N","LLaMa2","#ecba5b","LLaMa","2023.7","",,"https://arxiv.org/abs/2307.09288",,,,,,,,,
-"N","BioMedGPT-LM","#ecba5b","LLaMa2","2023.8","",,"https://arxiv.org/abs/2308.09442",,,,,,,,,
-### End of LLaMa2
-
-## Mistral variations
-"N","Mistral","#ecba5b","GPT","2023.10","",,"https://arxiv.org/abs/2310.06825",,,,,,,,,
-"N","BioMistral","#ecba5b","Mistral","2024.2","",,"https://arxiv.org/abs/2402.10373",,,,,,,,,
-## End of Mistral
-
 "#N","Pythia","#ecba5b","GPT","2023.4","",,"https://arxiv.org/abs/2304.01373",,,,,,,,,
 "#N","XLNet","#ecba5b","GPT","2019.6","",,"https://arxiv.org/abs/1906.08237",,,,,,,,,
-"#N","PaLM","#ecba5b","GPT","2022.4","",,"https://arxiv.org/abs/2204.02311",,,,,,,,,
 
-# PaLM-2 variations
-"N","PaLM-2","#ecba5b","GPT","2023.5","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
-"N","Tx-LLM","#ecba5b","PaLM-2","2024.6","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
-# End of PaLM-2
-"N","Chinchila","#ecba5b","GPT","2022.3","",,"https://arxiv.org/abs/2203.15556",,,,,,,,,
 "#N","Bard","#ecba5b","GPT","2020.3","",,"https://arxiv.org/abs/2003.01207",,,,,,,,,
-"N","Galactica","#ecba5b","GPT","2022.11","",,"https://arxiv.org/abs/2211.09085",,,,,,,,,
 "N","AutoMolDesigner","#ecba5b","GPT","2024.1","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.3c01562",,,,,,,,,
 "N","BioMedLM","#ecba5b","GPT","2024.3","",,"https://arxiv.org/abs/2403.18421",,,,,,,,,
 "N","ChemSpaceAL","#ecba5b","GPT","2023.9","",,"https://arxiv.org/abs/2309.05853",,,,,,,,,
 "N","cMolGPT","#ecba5b","GPT","2023.4","",,"https://www.mdpi.com/1420-3049/28/11/4430",,,,,,,,,
 "N","CONSMI","#ecba5b","GPT","2024.1","",,"https://www.mdpi.com/1420-3049/29/2/495",,,,,,,,,
-"N","GPTChem","#ecba5b","GPT","2024.2","",,"https://chemrxiv.org/engage/chemrxiv/article-details/652e50b98bab5d2055852dde",,,,,,,,,
 "N","iupacGPT","#ecba5b","GPT","2023.5","",,"https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae",,,,,,,,,
 "N","MolGPT","#ecba5b","GPT","2021.10","",,"https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00600",,,,,,,,,
 "N","PeTrans","#ecba5b","GPT","2023.1","",,"https://www.mdpi.com/1422-0067/24/2/1146",,,,,,,,,
 "N","SGPT-RL","#ecba5b","GPT","2023.6","",,"https://f1000research.com/articles/12-757/v2",,,,,,,,,
 
 # End of GPT
+
+## Mistral variations
+"N","Mistral","#cc6600","Transformers","2023.10","",,"https://arxiv.org/abs/2310.06825",,,,,,,,,
+"N","BioMistral","#cc6600","Mistral","2024.2","",,"https://arxiv.org/abs/2402.10373",,,,,,,,,
+"N","LlaSMol","#cc6600","Mistral","2024.2","",,"https://arxiv.org/abs/2402.09391",,,,,,,,,
+## End of Mistral
+
+# PaLM variations
+"#N","PaLM","#990099","GPT","2022.4","",,"https://arxiv.org/abs/2204.02311",,,,,,,,,
+# PaLM-2 variations
+"N","PaLM-2","#990099","Transformers","2023.5","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
+"N","Tx-LLM","#990099","PaLM-2","2024.6","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
+# End of PaLM-2
+# End of PaLM
+
+# LLaMa variations
+"N","LLaMa","#006699","Transformers","2023.2","",,"https://arxiv.org/abs/2302.13971",,,,,,,,,
+"N","Alpaca","#006699","LLaMa","2023.3","",,"https://crfm.stanford.edu/2023/03/13/alpaca.html",,,,,,,,,
+"N","EpylepsiLLM","#006699","LLaMa","2024.1","",,"https://arxiv.org/abs/2401.05908",,,,,,,,,
+"N","Darwin","#006699","LLaMa","2023.8","",,"https://arxiv.org/abs/2308.13565",,,,,,,,,
+"N","PMC-LLaMa","#006699","LLaMa","2023.4","",,"https://arxiv.org/abs/2304.14454",,,,,,,,,
+"N","ChatDoctor","#006699","Alpaca","2023.3","",,"https://arxiv.org/abs/2303.14070",,,,,,,,,
+
+## LLaMa2 variations
+"N","LLaMa2","#006699","LLaMa","2023.7","",,"https://arxiv.org/abs/2307.09288",,,,,,,,,
+"N","BioMedGPT-LM","#006699","LLaMa2","2023.8","",,"https://arxiv.org/abs/2308.09442",,,,,,,,,
+## End of LLaMa2
+
+# End of LLaMa
 
 # T5 variations
 "N","T5","#c7bff0","Transformers","2019.10","",,"https://arxiv.org/abs/1910.10683",,,,,,,,,
