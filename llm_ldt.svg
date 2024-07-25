@@ -11,7 +11,7 @@
   xmlns:cc='http://creativecommons.org/ns#'
   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
   version='1.1'
-  width='920'
+  width='1320'
   height='1818'
 >
 
@@ -46,7 +46,7 @@
 </defs>
 
 <g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
-  <rect x='0' y='0' width='920' height='1818' rx='11' ry='11' fill='#fff' />
+  <rect x='0' y='0' width='1320' height='1818' rx='11' ry='11' fill='#fff' />
 </g>
 
 <g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='0' stroke='#f0f0f0'>
@@ -159,6 +159,54 @@
     <line x1='893' y1='0' x2='893' y2='1818' />
     <line x1='901' y1='0' x2='901' y2='1818' />
   <line x1='910' y1='0' x2='910' y2='1818' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='918' y1='0' x2='918' y2='1818' />
+    <line x1='926' y1='0' x2='926' y2='1818' />
+    <line x1='935' y1='0' x2='935' y2='1818' />
+    <line x1='943' y1='0' x2='943' y2='1818' />
+    <line x1='951' y1='0' x2='951' y2='1818' />
+    <line x1='960' y1='0' x2='960' y2='1818' />
+    <line x1='968' y1='0' x2='968' y2='1818' />
+    <line x1='976' y1='0' x2='976' y2='1818' />
+    <line x1='985' y1='0' x2='985' y2='1818' />
+    <line x1='993' y1='0' x2='993' y2='1818' />
+    <line x1='1001' y1='0' x2='1001' y2='1818' />
+  <line x1='1010' y1='0' x2='1010' y2='1818' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1018' y1='0' x2='1018' y2='1818' />
+    <line x1='1026' y1='0' x2='1026' y2='1818' />
+    <line x1='1035' y1='0' x2='1035' y2='1818' />
+    <line x1='1043' y1='0' x2='1043' y2='1818' />
+    <line x1='1051' y1='0' x2='1051' y2='1818' />
+    <line x1='1060' y1='0' x2='1060' y2='1818' />
+    <line x1='1068' y1='0' x2='1068' y2='1818' />
+    <line x1='1076' y1='0' x2='1076' y2='1818' />
+    <line x1='1085' y1='0' x2='1085' y2='1818' />
+    <line x1='1093' y1='0' x2='1093' y2='1818' />
+    <line x1='1101' y1='0' x2='1101' y2='1818' />
+  <line x1='1110' y1='0' x2='1110' y2='1818' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1118' y1='0' x2='1118' y2='1818' />
+    <line x1='1126' y1='0' x2='1126' y2='1818' />
+    <line x1='1135' y1='0' x2='1135' y2='1818' />
+    <line x1='1143' y1='0' x2='1143' y2='1818' />
+    <line x1='1151' y1='0' x2='1151' y2='1818' />
+    <line x1='1160' y1='0' x2='1160' y2='1818' />
+    <line x1='1168' y1='0' x2='1168' y2='1818' />
+    <line x1='1176' y1='0' x2='1176' y2='1818' />
+    <line x1='1185' y1='0' x2='1185' y2='1818' />
+    <line x1='1193' y1='0' x2='1193' y2='1818' />
+    <line x1='1201' y1='0' x2='1201' y2='1818' />
+  <line x1='1210' y1='0' x2='1210' y2='1818' stroke-width='2' stroke='#e1e1e1' />
+    <line x1='1218' y1='0' x2='1218' y2='1818' />
+    <line x1='1226' y1='0' x2='1226' y2='1818' />
+    <line x1='1235' y1='0' x2='1235' y2='1818' />
+    <line x1='1243' y1='0' x2='1243' y2='1818' />
+    <line x1='1251' y1='0' x2='1251' y2='1818' />
+    <line x1='1260' y1='0' x2='1260' y2='1818' />
+    <line x1='1268' y1='0' x2='1268' y2='1818' />
+    <line x1='1276' y1='0' x2='1276' y2='1818' />
+    <line x1='1285' y1='0' x2='1285' y2='1818' />
+    <line x1='1293' y1='0' x2='1293' y2='1818' />
+    <line x1='1301' y1='0' x2='1301' y2='1818' />
+  <line x1='1310' y1='0' x2='1310' y2='1818' stroke-width='2' stroke='#e1e1e1' />
 </g>
 
 <g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
@@ -493,8 +541,8 @@ style='opacity:0.6;' >
 
 <g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' 
  style='stroke:none;fill:url(#__yearline);' >
-  <rect x='0' y='0' rx='5' ry='5' width='920' height='40' />
-  <rect x='0' y='1778' rx='5' ry='5' width='920' height='40' />
+  <rect x='0' y='0' rx='5' ry='5' width='1320' height='40' />
+  <rect x='0' y='1778' rx='5' ry='5' width='1320' height='40' />
   <g style='font-size:22px;stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;text-anchor:middle;' >
     <text x='60' y='28'><tspan>2017</tspan></text>
     <text x='60' y='1806'><tspan>2017</tspan></text>
@@ -514,24 +562,32 @@ style='opacity:0.6;' >
     <text x='760' y='1806'><tspan>2024</tspan></text>
     <text x='860' y='28'><tspan>2025</tspan></text>
     <text x='860' y='1806'><tspan>2025</tspan></text>
+    <text x='960' y='28'><tspan>2026</tspan></text>
+    <text x='960' y='1806'><tspan>2026</tspan></text>
+    <text x='1060' y='28'><tspan>2027</tspan></text>
+    <text x='1060' y='1806'><tspan>2027</tspan></text>
+    <text x='1160' y='28'><tspan>2028</tspan></text>
+    <text x='1160' y='1806'><tspan>2028</tspan></text>
+    <text x='1260' y='28'><tspan>2029</tspan></text>
+    <text x='1260' y='1806'><tspan>2029</tspan></text>
   </g>
 </g>
 
 <g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
  style='stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
-  <rect x='950' y='50' width='500' height='350' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
-  <rect x='950' y='50' width='500' height='350' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
-  <text x='961' y='88'><tspan style='font-size:32px;font-weight:bold;'>LLMs Distributions Timeline</tspan></text>
-  <text x='961' y='111'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 0.0.0</tspan></tspan></text>
-  <text x='961' y='131'><tspan style='font-size:16px;'></tspan></text>
-  <text x='961' y='151'><tspan style='font-size:16px;'>© Mayk Caldas Ramos†, Chris Collison‡, Andrew D. White†*</tspan></text>
-  <text x='961' y='171'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>† - University of Rochester</tspan></tspan></text>
-  <text x='961' y='191'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>‡ - Rochester Institute of Technology</tspan></tspan></text>
-  <text x='961' y='211'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>* - Future House</tspan></tspan></text>
-  <text x='961' y='231'><tspan style='font-size:16px;'></tspan></text>
-  <text x='961' y='251'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>https://github.com/maykcaldas/LLM-in-science</tspan></tspan></text>
-  <text x='961' y='271'><tspan style='font-size:16px;'>Original source: futurist.se/gldt</tspan></text>
-  <text x='961' y='291'><tspan style='font-size:16px;'>Published under the GNU Free Documentation License</tspan></text>
+  <rect x='800' y='50' width='500' height='250' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='800' y='50' width='500' height='250' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='811' y='88'><tspan style='font-size:32px;font-weight:bold;'>LLMs Distributions Timeline</tspan></text>
+  <text x='811' y='111'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>Version 1.0.0</tspan></tspan></text>
+  <text x='811' y='131'><tspan style='font-size:16px;'></tspan></text>
+  <text x='811' y='151'><tspan style='font-size:16px;'>© Mayk Caldas Ramos†, Chris Collison‡, Andrew D. White†*</tspan></text>
+  <text x='811' y='171'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>† - University of Rochester</tspan></tspan></text>
+  <text x='811' y='191'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>‡ - Rochester Institute of Technology</tspan></tspan></text>
+  <text x='811' y='211'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>* - Future House</tspan></tspan></text>
+  <text x='811' y='231'><tspan style='font-size:16px;'></tspan></text>
+  <text x='811' y='251'><tspan style='font-size:16px;'><tspan style='font-weight:bold'>https://github.com/ur-whitelab/LLM-in-science</tspan></tspan></text>
+  <text x='811' y='271'><tspan style='font-size:16px;'>Original source: futurist.se/gldt</tspan></text>
+  <text x='811' y='291'><tspan style='font-size:16px;'>Published under the GNU Free Documentation License</tspan></text>
 </g>
 
 <!-- BEGIN additional images -->
