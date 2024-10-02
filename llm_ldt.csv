@@ -114,7 +114,7 @@
 "N","AutoMolDesigner","#ecba5b","GPT","2024.1","",,"https://pubs.acs.org/doi/10.1021/acs.jcim.3c01562",,,,,,,,,
 "N","BioMedLM","#ecba5b","GPT","2024.3","",,"https://arxiv.org/abs/2403.18421",,,,,,,,,
 "N","ChemSpaceAL","#ecba5b","GPT","2023.9","",,"https://arxiv.org/abs/2309.05853",,,,,,,,,
-"N","cMolGPT","#ecba5b","GPT","2023.4","",,"https://www.mdpi.com/1420-3049/28/11/4430",,,,,,,,,
+"N","cMolGPT","#ecba5b","GPT","2023.5","",,"https://www.mdpi.com/1420-3049/28/11/4430",,,,,,,,,
 "N","CONSMI","#ecba5b","GPT","2024.1","",,"https://www.mdpi.com/1420-3049/29/2/495",,,,,,,,,
 "N","iupacGPT","#ecba5b","GPT","2023.5","",,"https://chemrxiv.org/engage/chemrxiv/article-details/645f49f9a32ceeff2d90c9ae",,,,,,,,,
 "N","MolGPT","#ecba5b","GPT","2021.10","",,"https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00600",,,,,,,,,
@@ -133,7 +133,7 @@
 "#N","PaLM","#990099","GPT","2022.4","",,"https://arxiv.org/abs/2204.02311",,,,,,,,,
 # PaLM-2 variations
 "N","PaLM-2","#990099","Transformers","2023.5","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
-"N","Tx-LLM","#990099","PaLM-2","2024.6","",,"https://arxiv.org/abs/2305.10403",,,,,,,,,
+"N","Tx-LLM","#990099","PaLM-2","2024.6","",,"https://arxiv.org/abs/2406.06316",,,,,,,,,
 # End of PaLM-2
 # End of PaLM
 
